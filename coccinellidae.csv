@@ -1,0 +1,2260 @@
+id,parent,name,common,rank,level,obs_worldwide
+48486,471714,Coccinellidae,Lady Beetles,family,30,616619
+333790,48486,Coccinellinae,Common Lady Beetles,subfamily,27,532384
+333796,333790,Coccinellini,Black-spotted Lady Beetles,tribe,25,508237
+48487,333796,Harmonia,Greater Lady Beetles,genus,20,207908
+48484,48487,Harmonia axyridis,Asian Lady Beetle,species,10,197367
+51703,333796,Coccinella,Coccinella,genus,20,113240
+51702,51703,Coccinella septempunctata,Seven-spotted Lady Beetle,species,10,96470
+48988,333796,Hippodamia,Oblong Lady Beetles,genus,20,45394
+48987,48988,Hippodamia convergens,Convergent Lady Beetle,species,10,27139
+55490,333796,Cycloneda,Spotless Lady Beetles,genus,20,23694
+631924,333790,Halyziini,Halyziini,tribe,25,22098
+354547,48486,Chilocorinae,Scale-feeding Lady Beetles,subfamily,27,21745
+373659,354547,Chilocorini,Chilocorini,tribe,25,19297
+54467,631924,Psyllobora,Fungus-eating Lady Beetles,genus,20,16683
+332663,48486,Epilachninae,Epilachninae,subfamily,27,16257
+61533,333796,Propylea,Propylea,genus,20,15773
+373697,332663,Epilachnini,Plant-eating Lady Beetles,tribe,25,15634
+61532,61533,Propylea quatuordecimpunctata,Fourteen-spotted Lady Beetle,species,10,14913
+52507,333796,Adalia,Adalia,genus,20,14559
+124431,55490,Cycloneda sanguinea,Spotless Lady Beetle,species,10,13697
+126268,333796,Coleomegilla,Coleomegilla,genus,20,11956
+126267,126268,Coleomegilla maculata,Spotted Pink Ladybeetle,species,10,11584
+354096,48486,Scymninae,Scymninae,subfamily,27,11449
+143034,48988,Hippodamia variegata,Variegated Lady Beetle,species,10,10891
+68761,373659,Chilocorus,Twice-stabbed Lady Beetles,genus,20,10462
+51660,54467,Psyllobora vigintiduopunctata,22-spot Ladybird,species,10,10135
+52506,52507,Adalia bipunctata,Two-spotted Lady Beetle,species,10,9890
+473856,48486,Coccidulinae,Coccidulinae,subfamily,27,8855
+123830,333796,Cheilomenes,Cheilomenes,genus,20,7845
+154560,373697,Epilachna,Epilachna,genus,20,6415
+173177,333796,Anatis,Giant Lady Beetles,genus,20,6234
+319910,123830,Cheilomenes sexmaculata,Six-spotted Zigzag Ladybird,species,10,5930
+69204,333796,Calvia,Calvia,genus,20,5843
+176546,333796,Olla,Olla,genus,20,5526
+313246,176546,Olla v-nigrum,Ashy Gray Lady Beetle,species,10,5386
+61791,373697,Henosepilachna,Henosepilachna,genus,20,4901
+244085,473856,Cryptolaemus,Cryptolaemus,genus,20,4605
+333708,333796,Coelophora,Coelophora,genus,20,4598
+349064,51703,Coccinella transversalis,Small Transverse Ladybird Beetle,species,10,4408
+52877,631924,Halyzia,Halyzia,genus,20,4355
+52881,52877,Halyzia sedecimguttata,Orange Ladybird,species,10,4296
+243969,373659,Exochomus,Exochomus,genus,20,4287
+373667,473856,Coccidulini,Coccidulini,tribe,25,4186
+55489,55490,Cycloneda munda,Polished Lady Beetle,species,10,4153
+210509,48487,Harmonia conformis,Large Spotted Ladybird,species,10,4152
+130414,52507,Adalia decempunctata,10-spot Ladybird,species,10,3869
+118967,54467,Psyllobora vigintimaculata,Twenty-spotted Lady Beetle,species,10,3828
+244084,244085,Cryptolaemus montrouzieri,Mealybug Destroyer,species,10,3816
+69203,69204,Calvia quatuordecimguttata,Cream-spotted Ladybird,species,10,3813
+207647,333796,Illeis,Illeis,genus,20,3740
+418187,333796,Eriopis,Eriopis,genus,20,3682
+120282,68761,Chilocorus stigma,Twice-stabbed Lady Beetle,species,10,3633
+475616,354096,Scymnini,Dusky Lady Beetles,tribe,25,3609
+333707,333708,Coelophora inaequalis,Variable Ladybird Beetle,species,10,3462
+243968,243969,Exochomus quadripustulatus,Pine Ladybird,species,10,3180
+354799,61791,Henosepilachna vigintioctopunctata,Hadda Beetle,species,10,2943
+244626,373659,Halmus,Halmus,genus,20,2869
+244625,244626,Halmus chalybeus,Steelblue Lady Beetle,species,10,2722
+132004,475616,Scymnus,Scymnus,genus,20,2687
+128712,51703,Coccinella californica,California Lady Beetle,species,10,2610
+1038541,354096,Brachiacanthini,Brachiacanthini,tribe,25,2565
+207648,207647,Illeis galbula,Fungus-eating ladybird,species,10,2505
+173300,1038541,Brachiacantha,Spurleg Lady Beetles,genus,20,2461
+418185,418187,Eriopis connexa,Eriopis connexa,species,10,2449
+56735,333796,Oenopia,Oenopia,genus,20,2439
+475799,354096,Hyperaspidini,Hyperaspidini,tribe,25,2338
+321535,173177,Anatis ocellata,Eyed Ladybird Beetle,species,10,2279
+131990,333796,Tytthaspis,Tytthaspis,genus,20,2263
+131985,131990,Tytthaspis sedecimpunctata,16-spot Ladybird,species,10,2247
+309685,68761,Chilocorus cacti,Cactus Lady Beetle,species,10,2109
+133139,475799,Hyperaspis,Sigil Lady Beetles,genus,20,2066
+55492,55490,Cycloneda polita,Western Polished Lady Beetle,species,10,2003
+253034,373667,Rhyzobius,Rhyzobius,genus,20,1948
+334606,333796,Micraspis,Micraspis,genus,20,1876
+56731,56735,Oenopia conglobata,Poplar Ladybird Beetle,species,10,1774
+213544,173177,Anatis mali,Eye-spotted Lady Beetle,species,10,1597
+326207,69204,Calvia decemguttata,Little Arboreal Lady Beetle,species,10,1596
+154559,154560,Epilachna borealis,Squash Lady Beetle,species,10,1593
+131091,48487,Harmonia quadripunctata,Cream-streaked Ladybird,species,10,1571
+207616,51703,Coccinella trifasciata,Three-banded Lady Beetle,species,10,1569
+205977,51703,Coccinella undecimpunctata,Eleven-spotted Ladybird Beetle,species,10,1537
+61938,373697,Subcoccinella,Subcoccinella,genus,20,1463
+61937,61938,Subcoccinella vigintiquatuorpunctata,24-spot Ladybird,species,10,1449
+319695,154560,Epilachna mexicana,Epilachna mexicana,species,10,1411
+221381,48988,Hippodamia tredecimpunctata,13-spotted Lady Beetle,species,10,1408
+196609,173300,Brachiacantha ursina,Ursine Spurleg Lady Beetle,species,10,1380
+174399,333796,Ceratomegilla,Ceratomegilla,genus,20,1345
+738534,48486,Ortaliinae,Ortaliinae,subfamily,27,1286
+1372119,174399,Ceratomegilla,Ceratomegilla,subgenus,15,1259
+326427,333796,Coccinula,Coccinula,genus,20,1227
+473042,326427,Coccinula quatuordecimpustulata,Coccinula quatuordecimpustulata,species,10,1196
+334609,334606,Micraspis frenata,Striped Ladybird,species,10,1194
+126636,68761,Chilocorus renipustulatus,Kidney-spot Ladybird,species,10,1163
+243547,48487,Harmonia testudinaria,Tortoise-shelled Ladybird,species,10,1158
+133085,333796,Myzia,Myzia,genus,20,1153
+375591,373667,Apolinus,Apolinus,genus,20,1144
+779238,738534,Noviini,Noviini,tribe,25,1140
+641236,779238,Novius,Novius,genus,20,1133
+385958,375591,Apolinus lividigaster,Yellow-shouldered Ladybird,species,10,1127
+176902,333796,Mulsantina,Mulsantina,genus,20,1124
+123596,68761,Chilocorus bipustulatus,Heather Ladybird,species,10,1103
+128994,51703,Coccinella transversoguttata,Transverse Lady Beetle,species,10,1009
+123827,123830,Cheilomenes lunata,Lunate Lady Beetle,species,10,1003
+429924,631924,Vibidia,Vibidia,genus,20,992
+429923,429924,Vibidia duodecimguttata,Vibidia duodecimguttata,species,10,983
+133141,48988,Hippodamia parenthesis,Parenthesis Lady Beetle,species,10,975
+143949,373659,Curinus,Curinus,genus,20,927
+497238,253034,Rhyzobius chrysomeloides,Round-keeled Rhyzobius,species,10,909
+1372125,1372119,Ceratomegilla notata,Notated Lady Beetle,species,10,883
+253035,333796,Neda,Neda,genus,20,879
+57871,51703,Coccinella quinquepunctata,5-spotted Lady Beetle,species,10,852
+143948,143949,Curinus coeruleus,Metallic Blue Lady Beetle,species,10,836
+213542,173177,Anatis labiculata,Fifteen-spotted Lady Beetle,species,10,827
+498267,207647,Illeis koebelei,Yellow Ladybird Beetle,species,10,817
+225295,176902,Mulsantina picta,Painted Ladybird,species,10,804
+1065202,641236,Novius cardinalis,Vedalia Beetle,species,10,746
+424391,61791,Henosepilachna argus,Bryony Ladybird,species,10,738
+61530,61533,Propylea japonica,Turtle Vein Lady Beetle,species,10,729
+375992,333796,Cleobora,Cleobora,genus,20,722
+387681,375992,Cleobora mellyi,Tasmanian Ladybird,species,10,719
+320355,48487,Harmonia dimidiata,Greater Asian Lady Beetle,species,10,705
+253033,373667,Azya,Azya,genus,20,702
+415505,154560,Epilachna tredecimnotata,Southern Squash Lady Beetle,species,10,686
+219319,154560,Epilachna varivestis,Mexican Bean Beetle,species,10,680
+172918,373659,Axion,Axion,genus,20,653
+133066,133085,Myzia oblongoguttata,Striped Ladybird,species,10,652
+325555,333796,Myrrha,Myrrha,genus,20,644
+318777,325555,Myrrha octodecimguttata,18-spot Ladybird,species,10,642
+309019,54467,Psyllobora renifer,Kidney-spotted Fairy Lady Beetle,species,10,589
+705039,333708,Coelophora saucia,Coelophora saucia,species,10,568
+488057,333796,Aphidecta,Aphidecta,genus,20,547
+488056,488057,Aphidecta obliterata,Larch Lady Beetle,species,10,546
+889310,418187,Eriopis chilensis,Eriopis chilensis,species,10,544
+130576,333796,Anisosticta,Anisosticta,genus,20,541
+176862,333796,Naemia,Naemia,genus,20,523
+225438,176862,Naemia seriata,Seaside Lady Beetle,species,10,520
+481777,55490,Cycloneda emarginata,Cycloneda emarginata,species,10,495
+320335,172918,Axion plagiatum,Twice-struck Lady Beetle,species,10,486
+368264,48487,Harmonia octomaculata,Maculate Ladybird,species,10,466
+221380,48988,Hippodamia quinquesignata,American Five-spotted Lady Beetle,species,10,439
+213543,173177,Anatis lecontei,LeConte's Giant Lady Beetle,species,10,426
+373690,354096,Diomini,Diomini,tribe,25,425
+173808,373690,Diomus,Diomus,genus,20,417
+473780,243969,Exochomus childreni,Exochomus childreni,species,10,394
+491987,373697,Chnootriba,Chnootriba,genus,20,386
+130575,130576,Anisosticta novemdecimpunctata,Water Ladybird,species,10,381
+136563,51703,Coccinella novemnotata,Nine-spotted Lady Beetle,species,10,381
+572670,354096,Platynaspidini,Platynaspidini,tribe,25,375
+490612,51703,Coccinella magnifica,Scarce Seven-spotted Ladybird Beetle,species,10,368
+1372137,1372119,Ceratomegilla undecimnotata,Ceratomegilla undecimnotata,species,10,368
+429587,334606,Micraspis discolor,Discolored Lady Beetle,species,10,350
+343123,572670,Platynaspis,Platynaspis,genus,20,349
+872198,333708,Coelophora biplagiata,Coelophora biplagiata,species,10,348
+207617,207616,Coccinella trifasciata subversa,Pacific Three-banded Lady Beetle,subspecies,5,341
+221376,48988,Hippodamia glacialis,Glacial Lady Beetle,species,10,338
+779246,354096,Stethorini,Stethorini,tribe,25,337
+211369,779246,Stethorus,Mite-Destroying Lady Beetles,genus,20,336
+473861,48486,Sticholotidinae,Sticholotidinae,subfamily,27,329
+473818,253033,Azya orbigera,Globe-marked Lady Beetle,species,10,327
+566518,123830,Cheilomenes sulphurea,Sulfurous Lady Beetle,species,10,316
+176696,475616,Nephus,Nephus,genus,20,307
+460288,123830,Cheilomenes propinqua,Striped Lady Beetle,species,10,305
+448283,373659,Orcus,Orcus,genus,20,300
+225428,133085,Myzia pullata,Streaked Lady Beetle,species,10,299
+782629,55490,Cycloneda ancoralis,Cycloneda ancoralis,species,10,299
+975680,373659,Parexochomus,Parexochomus,genus,20,285
+272002,253034,Rhyzobius lophanthae,Rhyzobius lophanthae,species,10,281
+209825,173177,Anatis rathvoni,Flying Saucer Lady Beetle,species,10,281
+243999,68761,Chilocorus nigritus,Chilocorus nigritus,species,10,276
+481873,126268,Coleomegilla quadrifasciata,Coleomegilla quadrifasciata,species,10,271
+1236212,975680,Parexochomus nigromaculatus,Flashlight Shield Lady Beetle,species,10,270
+176758,333796,Neoharmonia,Neoharmonia,genus,20,270
+311633,54467,Psyllobora borealis,Western Fairy Lady Beetle,species,10,262
+343122,343123,Platynaspis luteorubra,Ant-nest Ladybird,species,10,261
+320454,221380,Hippodamia quinquesignata ambigua,Pacific Five-spotted Lady Beetle,subspecies,5,253
+357526,333796,Aiolocaria,Aiolocaria,genus,20,249
+342425,333796,Bothrocalvia,Bothrocalvia,genus,20,244
+357525,357526,Aiolocaria hexaspilota,Aiolocaria hexaspilota,species,10,241
+221986,133139,Hyperaspis bigeminata,Bigeminate Sigil Lady Beetle,species,10,241
+343143,132004,Scymnus interruptus,Red-flanked Scymnus,species,10,235
+217266,51703,Coccinella monticola,Mountain Lady Beetle,species,10,232
+548764,69204,Calvia muiri,Calvia muiri,species,10,229
+774994,491987,Chnootriba elaterii,Melon Ladybird,species,10,223
+225631,176758,Neoharmonia venusta,V-marked Lady Beetle,species,10,219
+221373,48988,Hippodamia caseyi,Casey's Lady Beetle,species,10,215
+342424,342425,Bothrocalvia pupillata,Eastern Ten-spotted Lady Beetle,species,10,215
+174289,373667,Coccidula,Coccidula,genus,20,211
+780110,56735,Oenopia formosana,Oenopia formosana,species,10,211
+481773,52507,Adalia deficiens,Adalia deficiens,species,10,210
+373485,48486,Microweiseinae,Microweiseinae,subfamily,27,208
+794973,133139,Hyperaspis festiva,Hyperaspis festiva,species,10,208
+373603,373485,Serangiini,Serangiini,tribe,25,206
+378114,373603,Serangium,Serangium,genus,20,205
+217265,51703,Coccinella hieroglyphica,Hieroglyphic Lady Beetle,species,10,203
+1375014,132004,Scymnus frontalis,Scymnus frontalis,complex,11,201
+320422,132004,Scymnus loewii,Loew's Lady Beetle,species,10,200
+481775,253035,Neda norrisi,Neda norrisi,species,10,197
+776912,154560,Epilachna paenulata,Epilachna paenulata,species,10,195
+980667,54467,Psyllobora confluens,Psyllobora confluens,species,10,193
+448284,448283,Orcus australasiae,Orcus australasiae,species,10,192
+782895,55490,Cycloneda conjugata,Cycloneda conjugata,species,10,188
+410323,51703,Coccinella leonina,Orange-spotted Ladybird Beetle,species,10,187
+790658,373659,Zagreus,Zagreus,genus,20,185
+480370,51703,Coccinella algerica,Algerian Seven-spotted Lady Beetle,species,10,183
+417919,207647,Illeis confusa,Illeis confusa,species,10,181
+473829,333796,Paraneda,Paraneda,genus,20,181
+775015,373697,Toxotoma,Toxotoma,genus,20,180
+774973,373697,Diekeana,Diekeana,genus,20,174
+490728,333796,Neohalyzia,Neohalyzia,genus,20,174
+490727,490728,Neohalyzia perroudi,Cream-colored Lady Beetle,species,10,173
+482393,54467,Psyllobora variegata,Variegated Fungus-eating Lady Beetle,species,10,170
+309687,253035,Neda marginalis,black-bordered orange,species,10,166
+209829,333796,Paranaemia,Paranaemia,genus,20,162
+272003,51703,Coccinella nugatoria,Trivial Lady Beetle,species,10,161
+388646,173808,Diomus notescens,Minute two-spotted ladybird,species,10,160
+547789,253034,Rhyzobius litura,Pointed-keeled Rhyzobius,species,10,158
+225294,176902,Mulsantina hudsonica,Hudsonian Ladybird,species,10,157
+343145,176696,Nephus quadrimaculatus,Four-spotted Nephus,species,10,156
+209828,209829,Paranaemia vittigera,Broad-striped Lady Beetle,species,10,156
+397098,378114,Serangium maculigerum,Citrus whitefly ladybird,species,10,155
+882783,333796,Anegleis,Anegleis,genus,20,153
+775033,774973,Diekeana admirabilis,Diekeana admirabilis,species,10,152
+553450,373697,Cynegetis,Cynegetis,genus,20,147
+882782,882783,Anegleis cardoni,Anegleis cardoni,species,10,147
+544501,333796,Megalocaria,Megalocaria,genus,20,146
+553449,553450,Cynegetis impunctata,Cynegetis impunctata,species,10,145
+544499,544501,Megalocaria dilatata,Megalocaria dilatata,species,10,145
+271572,133139,Hyperaspis trifurcata,Trident Lady Beetle,species,10,145
+547788,211369,Stethorus pusillus,Dot Ladybird,species,10,143
+215331,173300,Brachiacantha decempustulata,Ten-spotted Spurleg Lady Beetle,species,10,142
+173264,373659,Brumoides,Brumoides,genus,20,141
+701664,56735,Oenopia lyncea,Oenopia lyncea,species,10,139
+557248,738534,Ortaliini,Ortaliini,tribe,25,139
+196608,130576,Anisosticta bitriangularis,Marsh Lady Beetle,species,10,138
+776548,333796,Sospita,Sospita,genus,20,137
+776545,776548,Sospita vigintiguttata,Sospita vigintiguttata,species,10,137
+332215,68761,Chilocorus circumdatus,Chilocorus circumdatus,species,10,135
+781128,54467,Psyllobora picta,Psyllobora picta,species,10,133
+506238,333796,Synonycha,Synonycha,genus,20,132
+506237,506238,Synonycha grandis,Giant Bamboo Ladybird,species,10,131
+337902,333796,Phrynocaria,Phrynocaria,genus,20,129
+797970,54467,Psyllobora bicongregata,Psyllobora bicongregata,species,10,128
+473830,473829,Paraneda pallidula,Paraneda pallidula,species,10,125
+779241,354096,Aspidimerini,Aspidimerini,tribe,25,122
+606184,475799,Tenuisvalvae,Tenuisvalvae,genus,20,120
+491941,779241,Cryptogonus,Cryptogonus,genus,20,118
+775018,775015,Toxotoma flavofasciata,Toxotoma flavofasciata,species,10,118
+632638,61791,Henosepilachna vigintioctomaculata,Henosepilachna vigintioctomaculata,species,10,117
+624590,55490,Cycloneda pulchella,Cycloneda pulchella,species,10,116
+209827,48988,Hippodamia sinuata,Sinuate Lady Beetle,species,10,114
+547795,174289,Coccidula rufa,Red Marsh Ladybird,species,10,114
+638030,334606,Micraspis furcifera,Micraspis furcifera,species,10,114
+473575,333796,Lioadalia,Lioadalia,genus,20,113
+214691,172918,Axion tripustulatum,Thrice-struck Lady Beetle,species,10,112
+209759,48487,Harmonia sedecimnotata,Sixteen-spotted Ladybird,species,10,112
+860463,154560,Epilachna cacica,Epilachna cacica,species,10,110
+640756,373697,Solanophila,Solanophila,genus,20,108
+625231,61791,Henosepilachna pusillanima,Henosepilachna pusillanima,species,10,107
+497239,132004,Scymnus rubromaculatus,Scymnus rubromaculatus,species,10,107
+1424071,133139,Hyperaspis signata-binotata agg,Red-spotted Sigil complex,complex,11,103
+1379954,318777,Myrrha octodecimguttata formosa,Myrrha octodecimguttata formosa,subspecies,5,103
+1101792,61791,Henosepilachna vigintisexpunctata,Henosepilachna vigintisexpunctata,species,10,101
+320398,133085,Myzia interrupta,Broken-dashed Lady Beetle,species,10,100
+1227090,641236,Novius pumilus,Novius pumilus,species,10,99
+128550,126267,Coleomegilla maculata lengi,Coleomegilla maculata lengi,subspecies,5,98
+705046,176902,Mulsantina mexicana,Mulsantina mexicana,species,10,98
+980669,54467,Psyllobora lenta,Psyllobora lenta,species,10,93
+547794,174289,Coccidula scutellata,Spotted Marsh Ladybird,species,10,92
+974620,154560,Epilachna clandestina,Epilachna clandestina,species,10,91
+779244,354096,Pentiliini,Pentiliini,tribe,25,90
+884219,779244,Pentilia,Pentilia,genus,20,90
+473574,473575,Lioadalia flavomaculata,Lioadalia flavomaculata,species,10,89
+488176,132004,Scymnus louisianae,Scymnus louisianae,species,10,89
+623087,56735,Oenopia cuneata,Blackring Lady Beetle,species,10,88
+319337,68761,Chilocorus kuwanae,Kuwana's Lady Beetle,species,10,87
+543686,333796,Neocalvia,Neocalvia,genus,20,86
+503797,253033,Azya luteipes,Azya luteipes,species,10,85
+481771,418187,Eriopis minima,Eriopis minima,species,10,83
+1237958,884219,Pentilia chelsea,Pentilia chelsea,species,10,82
+498555,174399,Adaliopsis,Adaliopsis,subgenus,15,82
+1372123,498555,Ceratomegilla alpina,Ceratomegilla alpina,species,10,82
+173976,473861,Delphastus,Whitefly Destroyers,genus,20,81
+329604,475616,Scymnobius,Scymnobius,genus,20,81
+218478,173808,Diomus terminatus,Firefly Duskyling,species,10,80
+787191,154560,Epilachna sauteri,Epilachna sauteri,species,10,79
+738538,48486,Exoplectrinae,Exoplectrinae,subfamily,27,78
+558317,51703,Coccinella miranda,Coccinella miranda,species,10,78
+332662,333796,Heteroneda,Heteroneda,genus,20,76
+790657,790658,Zagreus bimaculosus,Zagreus bimaculosus,species,10,74
+544860,557248,Amida,Amida,genus,20,74
+748397,544860,Amida tricolor,Amida tricolor,species,10,74
+514244,333796,Bulaea,Bulaea,genus,20,72
+482446,333796,Declivitata,Declivitata,genus,20,72
+887765,154560,Epilachna maculicollis,Epilachna maculicollis,species,10,72
+320471,207616,Coccinella trifasciata perplexa,American Three-banded Lady Beetle,subspecies,5,71
+777418,333796,Synona,Synona,genus,20,70
+738540,173177,Anatis hydropica,Anatis hydropica,species,10,69
+215332,173300,Brachiacantha dentipes,Brachiacantha dentipes,species,10,69
+1134983,606184,Tenuisvalvae bromelicola,Tenuisvalvae bromelicola,species,10,68
+475804,373659,Egius,Egius,genus,20,68
+551665,154560,Epilachna obscurella,Epilachna obscurella,species,10,68
+488053,475804,Egius platycephalus,Yellow-crested Aegis,species,10,68
+779236,448283,Orcus bilunulatus,Orcus bilunulatus,species,10,68
+332661,332662,Heteroneda billardieri,Heteroneda billardieri,species,10,68
+781573,373697,Papuaepilachna,Papuaepilachna,genus,20,67
+781574,781573,Papuaepilachna guttatopustulata,Large Leafeating Ladybird,species,10,67
+741867,373667,Eupalea,Eupalea,genus,20,67
+554407,173177,Anatis halonis,Anatis halonis,species,10,66
+321580,173264,Brumoides suturalis,Three-striped Lady Beetle,species,10,66
+221378,48988,Hippodamia oregonensis,Oregon Lady Beetle,species,10,66
+343137,132004,Scymnus suturalis,Pine Dusky Lady Beetle,species,10,64
+551383,491941,Cryptogonus orbiculus,Cryptogonus orbiculus,species,10,61
+543922,333796,Archegleis,Archegleis,genus,20,61
+474312,243969,Exochomus marginipennis,Exochomus marginipennis,species,10,59
+1196613,337902,Phrynocaria circumusta,Phrynocaria circumusta,species,10,59
+320409,253034,Rhyzobius forestieri,Rhyzobius forestieri,species,10,59
+491275,154560,Epilachna nigrocincta,Epilachna nigrocincta,species,10,59
+133138,133139,Hyperaspis quadrioculata,Four-eyed Sigil Lady Beetle,species,10,59
+333709,333708,Coelophora bissellata,Coelophora bissellata,species,10,57
+231726,211369,Stethorus punctum,Spider Mite Destroyer,species,10,56
+343134,132004,Scymnus auritus,Oak Ladybird,species,10,55
+690049,640756,Solanophila dregei,Potato Lady Beetle,species,10,55
+343171,475616,Clitostethus,Clitostethus,genus,20,55
+343170,343171,Clitostethus arcuatus,Horseshoe Ladybird,species,10,55
+741868,741867,Eupalea reinhardti,Eupalea reinhardti,species,10,55
+896744,418187,Eriopis eschscholtzii,Eriopis eschscholtzii,species,10,54
+488135,54467,Psyllobora parvinotata,Small-spotted Fairy Lady Beetle,species,10,53
+368386,473861,Sticholotis,Sticholotis,genus,20,53
+488054,473780,Exochomus childreni childreni,Exochomus childreni childreni,subspecies,5,53
+751444,748397,Amida tricolor formosana,Amida tricolor formosana,subspecies,5,53
+320370,133139,Hyperaspis connectens,Confluent Sigil Lady Beetle,species,10,52
+572693,333790,Telsimiini,Telsimiini,tribe,25,52
+448032,572693,Telsimia,Telsimia,genus,20,52
+1065206,641236,Novius koebelei,Koebele's ladybird,species,10,52
+776501,69204,Calvia quindecimguttata,Calvia quindecimguttata,species,10,51
+177712,475799,Hyperaspidius,Small Pied Lady Beetles,genus,20,51
+481772,52507,Adalia angulifera,Adalia angulifera,species,10,51
+221372,48988,Hippodamia apicalis,Hippodamia apicalis,species,10,50
+703087,56735,Oenopia doublieri,Oenopia doublieri,species,10,50
+1066322,333796,Mononeda,Mononeda,genus,20,50
+448105,448032,Telsimia subviridis,Telsimia subviridis,species,10,49
+893283,1038541,Cyrea,Cyrea,genus,20,49
+602563,491987,Chnootriba hirta,Chnootriba hirta,species,10,48
+848692,253035,Neda aequatoriana,Neda aequatoriana,species,10,48
+309016,173300,Brachiacantha decora,Brachiacantha decora,species,10,48
+343135,132004,Scymnus subvillosus,Scymnus subvillosus,species,10,48
+899355,61791,Henosepilachna sumbana,Henosepilachna sumbana,species,10,47
+133140,133139,Hyperaspis octavia,Octavia Lady Beetle,species,10,47
+221987,1424071,Hyperaspis binotata,Hyperaspis binotata,species,10,46
+1379955,318777,Myrrha octodecimguttata octodecimguttata,Myrrha octodecimguttata octodecimguttata,subspecies,5,45
+209826,133085,Myzia subvittata,Subvittate Lady Beetle,species,10,45
+329567,329604,Scymnobius galapagoensis,Scymnobius galapagoensis,species,10,44
+514243,514244,Bulaea lichatschovi,Bulaea lichatschovi,species,10,44
+349083,334606,Micraspis lineata,Micraspis lineata,species,10,43
+577710,738538,Chnoodini,Chnoodini,tribe,25,43
+559132,333796,Australoneda,Australoneda,genus,20,43
+320378,133139,Hyperaspis lateralis,Lateral Sigil Lady Beetle,species,10,43
+559133,559132,Australoneda bourgeoisi,Australoneda bourgeoisi,species,10,43
+481259,126267,Coleomegilla maculata fuscilabris,Coleomegilla maculata fuscilabris,subspecies,5,42
+877302,418187,Eriopis serrai,Eriopis serrai,species,10,42
+782631,154560,Epilachna insignis,Epilachna insignis,species,10,41
+390283,48487,Harmonia antipoda,Antipodean Ladybird,species,10,40
+131950,1375014,Scymnus frontalis,Angle-spotted Scymnus,species,10,40
+789422,418187,Eriopis punicola,Eriopis punicola,species,10,40
+131951,132004,Scymnus haemorrhoidalis,Red-rumped Scymnus,species,10,40
+805012,154560,Epilachna crassimala,Epilachna crassimala,species,10,39
+775477,543686,Neocalvia anastomozans,Neocalvia anastomozans,species,10,39
+320350,243969,Exochomus fasciatus,Batman Lady Beetle,species,10,39
+473854,54467,Psyllobora nana,Cuban Fairy Lady Beetle,species,10,38
+874821,48988,Hippodamia septemmaculata,Hippodamia septemmaculata,species,10,38
+746929,543922,Archegleis edwardsi,Archegleis edwardsi,species,10,38
+221992,133139,Hyperaspis proba,Esteemed Sigil Lady Beetle,species,10,37
+790163,777418,Synona consanguinea,Synona consanguinea,species,10,37
+829243,176758,Neoharmonia zischkai,Neoharmonia zischkai,species,10,37
+455668,48988,Hippodamia arctica,Hippodamia arctica,species,10,37
+1066324,1066322,Mononeda ostrina,Mononeda ostrina,species,10,37
+1413725,498267,Illeis koebelei koebelei,Illeis koebelei koebelei,subspecies,5,37
+215336,173300,Brachiacantha quadripunctata,Four-spotted Spurleg Lady Beetle,species,10,35
+606185,606184,Tenuisvalvae notata,Tenuisvalvae notata,species,10,35
+713655,343123,Platynaspis maculosa,Platynaspis maculosa,species,10,34
+221995,133139,Hyperaspis undulata,Undulate Sigil Lady Beetle,species,10,34
+488138,738538,Exoplectra,Exoplectra,genus,20,33
+627635,56735,Oenopia divergens,Smileyface Lady Beetle,species,10,33
+1074932,473829,Paraneda viridescens,Paraneda viridescens,species,10,32
+779243,354096,Cryptognathini,Cryptognathini,tribe,25,32
+641306,557248,Ortalia,Ortalia,genus,20,31
+473851,48487,Harmonia vigintiduomaculata,Chequered Lady Beetle,species,10,31
+876983,543686,Neocalvia cayennensis,Neocalvia cayennensis,species,10,31
+320432,132004,Scymnus nebulosus,Nebulous Lady Beetle,species,10,30
+985793,54467,Psyllobora lutescens,Psyllobora lutescens,species,10,30
+221994,1424071,Hyperaspis signata,Twice-stabbed Sigil Lady Beetle,species,10,30
+475793,473861,Microweiseini,Microweiseini,tribe,25,30
+708675,333708,Coelophora bowringii,Coelophora bowringii,species,10,30
+482355,154560,Epilachna persimilis,Epilachna persimilis,species,10,30
+900696,333796,Callicaria,Callicaria,genus,20,29
+1227079,641236,Novius rufopilosus,Novius rufopilosus,species,10,29
+1337100,373697,Afrocleta,Afrocleta,genus,20,29
+1101340,61791,Henosepilachna enneasticta,Henosepilachna enneasticta,species,10,29
+320349,243969,Exochomus flavipes,Exochomus flavipes,species,10,29
+215467,173264,Brumoides septentrionis,Winter Lady Beetle,species,10,29
+900695,900696,Callicaria superba,Callicaria superba,species,10,28
+961261,61791,Henosepilachna angusticollis,Henosepilachna angusticollis,species,10,28
+500746,48487,Harmonia eucharis,Harmonia eucharis,species,10,27
+1249944,54467,Psyllobora gratiosa,Psyllobora gratiosa,species,10,27
+775021,775015,Toxotoma monovittata,Toxotoma monovittata,species,10,27
+545966,48487,Harmonia yedoensis,Yedo Lady Beetle,species,10,27
+1008198,133139,Hyperaspis onerata,Hyperaspis onerata,species,10,27
+547793,133139,Hyperaspis campestris,Hyperaspis campestris,species,10,27
+320343,243969,Exochomus aethiops,Ebony Shield Lady Beetle,species,10,27
+703005,243969,Exochomus nigripennis,Exochomus nigripennis,species,10,26
+1145358,132004,Scymnus bivulnerus,Scymnus bivulnerus,species,10,26
+320389,133139,Hyperaspis octonotata,Hyperaspis octonotata,species,10,26
+375373,373667,Adoxellus,Adoxellus,genus,20,26
+481776,473780,Exochomus childreni guexi,Exochomus childreni guexi,subspecies,5,26
+623071,132004,Scymnus ferrugatus,Scymnus ferrugatus,species,10,25
+926555,790658,Zagreus decempunctatus,Zagreus decempunctatus,species,10,25
+877175,126268,Coleomegilla occulta,Coleomegilla occulta,species,10,25
+710697,154560,Epilachna chinensis,Epilachna chinensis,species,10,25
+1075412,173808,Diomus tucumanus,Diomus tucumanus,species,10,25
+888884,342425,Bothrocalvia albolineata,Bothrocalvia albolineata,species,10,25
+475801,475799,Thalassa,Thalassa,genus,20,25
+488074,475801,Thalassa montezumae,Montezuma lady Beetle,species,10,25
+385012,375373,Adoxellus flavihirtus,Yellow-haired ladybird,species,10,25
+636759,373667,Bucolus,Bucolus,genus,20,25
+882215,154560,Epilachna riveti,Epilachna riveti,species,10,24
+887156,154560,Epilachna patricia,Epilachna patricia,species,10,24
+1085854,418187,Eriopis heliophila,Eriopis heliophila,species,10,24
+640755,373697,Mada,Mada,genus,20,24
+926557,790658,Zagreus guttatus,Zagreus guttatus,species,10,24
+959114,61791,Henosepilachna diekei,Henosepilachna diekei,species,10,24
+700345,337902,Phrynocaria gratiosa,Phrynocaria gratiosa,species,10,24
+488061,225631,Neoharmonia venusta venusta,Neoharmonia venusta venusta,subspecies,5,23
+1075688,329604,Scymnobius ecuadoricus,Scymnobius ecuadoricus,species,10,23
+777419,777418,Synona melanaria,Synona melanaria,species,10,23
+566522,473575,Lioadalia intermedia,Lioadalia intermedia,species,10,23
+1096539,52506,Adalia bipunctata revelierei,Adalia bipunctata revelierei,subspecies,5,23
+490743,418187,Eriopis magellanica,Eriopis magellanica,species,10,23
+906814,572670,Platynaspidius,Platynaspidius,genus,20,23
+860101,68761,Chilocorus canariensis,Chilocorus canariensis,species,10,23
+605469,334606,Micraspis univittata,Micraspis univittata,species,10,22
+1114694,481873,Coleomegilla quadrifasciata octodecimpustulata,Coleomegilla quadrifasciata octodecimpustulata,subspecies,5,22
+475796,475616,Sasajiscymnus,Sasajiscymnus,genus,20,22
+899083,56735,Oenopia kirbyi,Oenopia kirbyi,species,10,22
+482447,482446,Declivitata olivieri,Declivitata olivieri,species,10,22
+1046642,333796,Heterocaria,Heterocaria,genus,20,22
+654498,514244,Bulaea anceps,Bulaea anceps,species,10,22
+488066,173300,Brachiacantha quadrillum,Brachiacantha quadrillum,species,10,21
+547791,176696,Nephus redtenbacheri,Red-patched Nephus,species,10,21
+334617,334606,Micraspis lineola,Micraspis lineola,species,10,21
+697505,641306,Ortalia ochracea,Ortalia ochracea,species,10,21
+775031,373697,Afissa,Afissa,genus,20,21
+340837,68761,Chilocorus rubidus,Chilocorus rubidus,species,10,21
+1264676,69204,Calvia albida,Calvia albida,species,10,21
+603349,334606,Micraspis flavovittata,Micraspis flavovittata,species,10,20
+503238,52507,Adalia conglomerata,Adalia conglomerata,species,10,20
+690051,640756,Solanophila paykullii,Nightshade Lady Beetle,species,10,20
+320401,176696,Nephus binaevatus,Nephus binaevatus,species,10,20
+475795,475616,Nephaspis,Nephaspis,genus,20,20
+1089438,133139,Hyperaspis sphaeridioides,Hyperaspis sphaeridioides,species,10,20
+245923,231726,Stethorus punctum picipes,Spider mite destroyer,subspecies,5,20
+1238976,154560,Epilachna azurea,Epilachna azurea,species,10,20
+207644,207647,Illeis cincta,Illeis cincta,species,10,20
+1075775,173300,Brachiacantha bistripustulata,Brachiacantha bistripustulata,species,10,20
+217263,51703,Coccinella alta,High-country Lady Beetle,species,10,20
+320332,173300,Brachiacantha uteella,Brachiacantha uteella,species,10,20
+221377,48988,Hippodamia moesta,Sorrowful Lady Beetle,species,10,20
+430181,132004,Scymnus blackburni,Scymnus blackburni,species,10,19
+1080747,488138,Exoplectra miniata,Exoplectra miniata,species,10,19
+215333,173300,Brachiacantha felina,Brachiacantha felina,species,10,19
+989577,989575,Adira obscurocincta,Adira obscurocincta,species,10,19
+989575,373697,Adira,Adira,genus,20,19
+980459,154560,Epilachna convergens,Epilachna convergens,species,10,19
+1118167,491987,Chnootriba fabriciana,Cucurbit Lady Beetle,species,10,19
+458915,221376,Hippodamia glacialis glacialis,Hippodamia glacialis glacialis,subspecies,5,18
+488062,173300,Brachiacantha tau,Brachiacantha tau,species,10,18
+488112,173808,Diomus roseicollis,Diomus roseicollis,species,10,18
+857564,154560,Epilachna sellata,Epilachna sellata,species,10,18
+1337104,1337100,Afrocleta undulata,Sea-pumpkin Lady Beetle,species,10,18
+343139,1375014,Scymnus apetzi,Scymnus apetzi,species,10,18
+61528,61533,Propylea dissecta,Propylea dissecta,species,10,18
+218201,173976,Delphastus pusillus,Whitefly Destroyer,species,10,17
+842087,243969,Exochomus laeviusculus,Exochomus laeviusculus,species,10,17
+656832,123830,Cheilomenes bidentata,Lipstick Lady Beetle,species,10,17
+52883,52877,Halyzia sanscrita,Halyzia sanscrita,species,10,17
+1189804,69204,Calvia sykesii,Calvia sykesii,species,10,17
+888886,69204,Calvia quadrivittata,Calvia quadrivittata,species,10,17
+1090297,55490,Cycloneda fulvipennis,Cycloneda fulvipennis,species,10,17
+396428,253034,Rhyzobius acceptus,Rhyzobius acceptus,species,10,17
+601678,337902,Phrynocaria unicolor,Phrynocaria unicolor,species,10,16
+488096,132004,Scymnus difficilis,Scymnus difficilis,species,10,16
+1156744,51703,Coccinella nivicola,Coccinella nivicola,species,10,16
+1274444,641236,Novius punicus,Novius punicus,species,10,16
+475794,354096,Scymnillini,Scymnillini,tribe,25,16
+1118275,154560,Epilachna vincta,Epilachna vincta,species,10,16
+805166,543922,Archegleis kingi,Archegleis kingi,species,10,16
+869153,473861,Jauravia,Jauravia,genus,20,16
+926559,790658,Zagreus cornejoi,Zagreus cornejoi,species,10,16
+320473,209827,Hippodamia sinuata crotchi,Crotch's Lady Beetle,subspecies,5,16
+1224495,790658,Zagreus hexasticta,Zagreus hexasticta,species,10,16
+471619,373697,Afidentula,Afidentula,genus,20,16
+320475,225438,Naemia seriata litigiosa,Western Seaside Lady Beetle,subspecies,5,16
+700821,577710,Chnoodes,Chnoodes,genus,20,16
+829196,154560,Epilachna decemguttata,Epilachna decemguttata,species,10,16
+388647,173808,Diomus subclarus,Diomus subclarus,species,10,16
+320457,333788,Hippodamia lunatomaculata lunatomaculata,Southern Crescent Lady Beetle,subspecies,5,16
+333788,48988,Hippodamia lunatomaculata,Crescent Lady Beetle,species,10,16
+479579,173300,Brachiacantha subfasciata,Short-banded Spurleg,species,10,15
+176983,475793,Microweisea,Microweisea,genus,20,15
+867729,61533,Propylea luteopustulata,Propylea luteopustulata,species,10,15
+498852,133139,Hyperaspis silvestrii,Hyperaspis silvestrii,species,10,15
+784962,448283,Orcus nummularis,Orcus nummularis,species,10,14
+1046037,173976,Delphastus argentinicus,Delphastus argentinicus,species,10,14
+1075846,373667,Erithionyx,Erithionyx,genus,20,14
+680266,697505,Ortalia ochracea ochracea,Common Blue-eye Lady Beetle,subspecies,5,14
+343126,133139,Hyperaspis reppensis,False-spotted Ladybird,species,10,14
+1098482,333796,Microcaria,Microcaria,genus,20,14
+1098483,1098482,Microcaria mulsanti,Microcaria mulsanti,species,10,14
+1166684,368386,Sticholotis punctata,Sticholotis punctata,species,10,14
+491353,56735,Oenopia sexareata,Oenopia sexareata,species,10,14
+831194,55490,Cycloneda devestita,Cycloneda devestita,species,10,14
+569494,68761,Chilocorus distigma,Chilocorus distigma,species,10,14
+488060,225631,Neoharmonia venusta ampla,Neoharmonia venusta ampla,subspecies,5,14
+413736,52506,Adalia bipunctata bipunctata,Adalia bipunctata bipunctata,subspecies,5,13
+794507,54467,Psyllobora bisoctonotata,Psyllobora bisoctonotata,species,10,13
+857568,775015,Toxotoma jujuyi,Toxotoma jujuyi,species,10,13
+597474,154560,Epilachna discincta,Epilachna discincta,species,10,13
+914125,333708,Coelophora duvaucelii,Coelophora duvaucelii,species,10,13
+488058,128712,Coccinella californica johnsoni,Johnson's Lady Beetle,form,5,13
+717196,133085,Myzia gebleri,Myzia gebleri,species,10,13
+971901,1066322,Mononeda marginata,Mononeda marginata,species,10,13
+230735,132004,Scymnus kansanus,Scymnus kansanus,species,10,13
+320459,221376,Hippodamia glacialis lecontei,Hippodamia glacialis lecontei,subspecies,5,13
+958424,55490,Cycloneda chilena,Cycloneda chilena,species,10,13
+1040908,56735,Oenopia sauzeti,Oenopia sauzeti,species,10,13
+396431,253034,Rhyzobius fagus,Rhyzobius fagus,species,10,13
+906817,906814,Platynaspidius quinquepunctatus,Platynaspidius quinquepunctatus,species,10,13
+1180033,55490,Cycloneda fryii,Cycloneda fryii,species,10,12
+488174,133139,Hyperaspis wickhami,Hyperaspis wickhami,species,10,12
+390564,376610,Hoangus venustus,Flax Ladybird,species,10,12
+376610,373667,Hoangus,Hoangus,genus,20,12
+661427,482446,Declivitata bohemani,Declivitata bohemani,species,10,12
+1074359,640755,Mada inepta,Mada inepta,species,10,12
+225153,176983,Microweisea misella,Micro Lady Beetle,species,10,12
+869561,132004,Scymnus posticalis,Scymnus posticalis,species,10,12
+1287491,176758,Neoharmonia erythroptera,Neoharmonia erythroptera,species,10,12
+458916,221377,Hippodamia moesta moesta,Sorrowful Lady Beetle,subspecies,5,12
+738585,69204,Calvia championorum,Calvia championorum,species,10,12
+230739,132004,Scymnus rubricaudus,Scymnus rubricaudus,species,10,12
+1182438,253033,Azya ilicis,Azya ilicis,species,10,11
+980521,154560,Epilachna ovaloides,Epilachna ovaloides,species,10,11
+776499,154560,Epilachna abrupta,Epilachna abrupta,species,10,11
+787377,253033,Azya bioculata,Azya bioculata,species,10,11
+1046648,1046642,Heterocaria delta,Heterocaria delta,species,10,11
+1161248,154560,Epilachna reichei,Epilachna reichei,species,10,11
+1413726,498267,Illeis koebelei amamiana,Illeis koebelei amamiana,subspecies,5,11
+774636,68761,Chilocorus malasiae,Chilocorus malasiae,species,10,11
+1122073,741867,Eupalea picta,Eupalea picta,species,10,11
+868984,173300,Brachiacantha darlene,Brachiacantha darlene,species,10,11
+475802,779243,Cryptognatha,Cryptognatha,genus,20,11
+888181,154560,Epilachna extrema,Epilachna extrema,species,10,11
+1232874,253035,Neda amandi,Neda amandi,species,10,11
+1023222,133139,Hyperaspis esmeraldas,Hyperaspis esmeraldas,species,10,11
+488163,133139,Hyperaspis punctata,Hyperaspis punctata,species,10,11
+1078845,373659,Harpasus,Harpasus,genus,20,11
+320346,243969,Exochomus subrotundus,Exochomus subrotundus,species,10,11
+320395,133139,Hyperaspis taeniata,Ribboned Sigil Lady Beetle,species,10,11
+732889,641236,Novius cruentatus,Novius cruentatus,species,10,11
+320391,133139,Hyperaspis postica,Hyperaspis postica,species,10,11
+715010,253035,Neda callispilota,Neda callispilota,species,10,11
+495542,176696,Nephus bipunctatus,Nephus bipunctatus,species,10,11
+1046643,1046642,Heterocaria barronensis,Heterocaria barronensis,species,10,11
+627682,343123,Platynaspis capicola,Platynaspis capicola,species,10,11
+488156,133139,Hyperaspis lugubris,Hyperaspis lugubris,species,10,11
+1406597,893283,Cyrea ormanceayi,Cyrea ormanceayi,species,10,11
+68760,68761,Chilocorus orbus,Chilocorus orbus,species,10,10
+705921,55490,Cycloneda arcula,Cycloneda arcula,species,10,10
+1077188,55490,Cycloneda vogli,Cycloneda vogli,species,10,10
+1079928,893283,Cyrea tamara,Cyrea tamara,species,10,10
+1369382,473818,Azya orbigera ecuadorica,Azya orbigera ecuadorica,subspecies,5,10
+320472,126267,Coleomegilla maculata strenua,Coleomegilla maculata strenua,subspecies,5,10
+488067,173300,Brachiacantha barberi,Brachiacantha barberi,species,10,10
+235338,128994,Coccinella transversoguttata richardsoni,Transverse Lady Beetle,subspecies,5,10
+458917,221380,Hippodamia quinquesignata quinquesignata,Hippodamia quinquesignata quinquesignata,subspecies,5,10
+885842,333796,Macroilleis,Macroilleis,genus,20,10
+885843,885842,Macroilleis hauseri,Macroilleis hauseri,species,10,10
+1204243,55490,Cycloneda germainii,Cycloneda germainii,species,10,10
+906815,906814,Platynaspidius maculosa,Platynaspidius maculosa,species,10,10
+320463,51703,Coccinella difficilis,Satellite Lady Beetle,species,10,10
+498863,368386,Sticholotis ruficeps,Sticholotis ruficeps,species,10,10
+1052717,225438,Naemia seriata seriata,Naemia seriata seriata,subspecies,5,10
+396440,253034,Rhyzobius ventralis,Gumtree Scale Ladybird,species,10,10
+874745,176902,Mulsantina lynx,Mulsantina lynx,species,10,9
+1180016,253035,Neda boliviana,Neda boliviana,species,10,9
+488154,133139,Hyperaspis gemina,Hyperaspis gemina,species,10,9
+1094474,131990,Tytthaspis gebleri,Tytthaspis gebleri,species,10,9
+950051,126268,Coleomegilla cubensis,Coleomegilla cubensis,species,10,9
+1261352,790658,Zagreus jordani,Zagreus jordani,species,10,9
+543688,543686,Neocalvia dentatofasciata,Neocalvia dentatofasciata,species,10,9
+460287,460288,Cheilomenes propinqua vicina,Cheilomenes propinqua vicina,subspecies,5,9
+697300,482446,Declivitata hamata,Humbug Lady Beetle,species,10,9
+225809,176696,Nephus sordidus,Nephus sordidus,species,10,9
+647532,471619,Afidentula godarti,Afidentula godarti,species,10,9
+481778,173177,Anatis lebasi,Anatis lebasi,species,10,9
+893291,1038541,Dilatitibialis,Dilatitibialis,genus,20,9
+177204,333796,Macronaemia,Macronaemia,genus,20,9
+473863,473861,Pharoscymnus,Pharoscymnus,genus,20,8
+483033,211369,Stethorus histrio,Stethorus histrio,species,10,8
+1133541,132004,Scymnus flagellisiphonatus,Scymnus flagellisiphonatus,species,10,8
+493943,211369,Stethorus cantonensis,Stethorus cantonensis,species,10,8
+899089,54467,Psyllobora pauline,Psyllobora pauline,species,10,8
+1110805,48988,Hippodamia koebelei,Hippodamia koebelei,species,10,8
+407341,211369,Stethorus bifidus,Stethorus bifidus,species,10,8
+661429,697300,Declivitata hamata pygmaea,Humbug Lady Beetle [pygmaea],subspecies,5,8
+1234163,55490,Cycloneda graphiptera,Cycloneda graphiptera,species,10,8
+337901,337902,Phrynocaria congener,Phrynocaria congener,species,10,8
+320468,475794,Zilus,Velvethead Lady Beetles,genus,20,8
+225804,176696,Nephus flavifrons,Nephus flavifrons,species,10,8
+623366,473861,Cephaloscymnini,Cephaloscymnini,tribe,25,8
+1150837,55490,Cycloneda puncticollis,Cycloneda puncticollis,species,10,8
+780088,491941,Cryptogonus robustus,Cryptogonus robustus,species,10,8
+320341,173976,Delphastus catalinae,Delphastus catalinae,species,10,8
+320478,51703,Coccinella prolongata,Prolongate Lady Beetle,species,10,8
+1094811,473856,Tetrabrachini,Tetrabrachini,tribe,25,8
+640627,1094811,Tetrabrachys,Tetrabrachys,genus,20,8
+882217,154560,Epilachna aequatorialis,Epilachna aequatorialis,species,10,8
+1150647,333790,Poriini,Poriini,tribe,25,8
+1150698,1150647,Poria,Poria,genus,20,8
+320385,133139,Hyperaspis pleuralis,Side-spotted Sigil Lady Beetle,species,10,8
+221375,48988,Hippodamia falcigera,Sickle-marked Lady Beetle,species,10,8
+503794,253033,Azya scutata,Azya scutata,species,10,8
+368385,368386,Sticholotis quadrimaculata,Sticholotis quadrimaculata,species,10,8
+326428,326427,Coccinula sinuatomarginata,Coccinula sinuatomarginata,species,10,8
+343138,132004,Scymnus abietis,Scymnus abietis,species,10,8
+320330,173264,Brumoides histrio,Lepine Lady Beetle,species,10,8
+1063408,55490,Cycloneda ecuadorica,Cycloneda ecuadorica,species,10,8
+224311,177204,Macronaemia episcopalis,Episcopal Ladybird,species,10,8
+1101672,133139,Hyperaspis pseudodonzeli,Hyperaspis pseudodonzeli,species,10,8
+869616,68761,Chilocorus shirozui,Chilocorus shirozui,species,10,7
+980677,154560,Epilachna dorsigera,Epilachna dorsigera,species,10,7
+488059,209827,Hippodamia sinuata sinuata,Hippodamia sinuata sinuata,subspecies,5,7
+488073,173300,Brachiacantha lepida,Lepidine Spurleg Lady Beetle,species,10,7
+893877,378114,Serangium bellum,Serangium bellum,species,10,7
+1049378,133139,Hyperaspis concolor,Hyperaspis concolor,species,10,7
+1041029,176696,Nephus kiesenwetteri,Nephus kiesenwetteri,species,10,7
+1104874,373697,Afissula,Afissula,genus,20,7
+1078849,1078845,Harpasus zonatus,Harpasus zonatus,species,10,7
+904121,132004,Scymnus bicolor,Scymnus bicolor,species,10,7
+1249424,473861,Stictobura,Stictobura,genus,20,7
+1249427,1249424,Stictobura semipolita,Stictobura semipolita,species,10,7
+511713,373697,Afidenta,Afidenta,genus,20,7
+1224758,779243,Calloeneis,Calloeneis,genus,20,7
+1146400,132004,Scymnus nubilus,Scymnus nubilus,species,10,7
+1330650,54467,Psyllobora decipiens,Psyllobora decipiens,species,10,7
+1090151,173264,Brumoides ohtai,Brumoides ohtai,species,10,7
+1224760,1224758,Calloeneis signata,Calloeneis signata,species,10,7
+1039244,133139,Hyperaspis vinciguerrae,Pitchfork lady beetle,species,10,7
+1008199,132004,Scymnus rubicundus,Scymnus rubicundus,species,10,7
+1371625,51703,Coccinella ainu,Coccinella ainu,species,10,7
+981287,1038541,Hinda,Hinda,genus,20,7
+1148785,154560,Epilachna circumcincta,Epilachna circumcincta,species,10,7
+471621,471619,Afidentula bisquadripunctata,Afidentula bisquadripunctata,species,10,7
+794625,130576,Anisosticta kobensis,Anisosticta kobensis,species,10,7
+1227094,641236,Novius virginalis,Native Anovia,species,10,7
+887010,61791,Henosepilachna boisduvali,Henosepilachna boisduvali,species,10,7
+910360,69204,Calvia shirozui,Calvia shirozui,species,10,7
+678678,641236,Novius bellus,Novius bellus,species,10,7
+805167,543922,Archegleis interrupta,Archegleis interrupta,species,10,7
+1238208,143949,Curinus colombianus,Curinus colombianus,species,10,7
+869156,869153,Jauravia limbata,Jauravia limbata,species,10,6
+891829,418187,Eriopis andina,Eriopis andina,species,10,6
+912449,418187,Eriopis nobilis,Eriopis nobilis,species,10,6
+56733,56735,Oenopia billieti,Oenopia billieti,species,10,6
+1117809,475802,Cryptognatha gemellata,Cryptognatha gemellata,species,10,6
+952887,418187,Eriopis loaensis,Eriopis loaensis,species,10,6
+1077722,56735,Oenopia scalaris,Oenopia scalaris,species,10,6
+920580,56735,Oenopia hirayamai,Oenopia hirayamai,species,10,6
+905758,132004,Scymnus femoralis,Heath Scymnus,species,10,6
+927606,124431,Cycloneda sanguinea limbifer,Cycloneda sanguinea limbifer,subspecies,5,6
+1249503,378114,Serangium japonicum,Serangium japonicum,species,10,6
+1370132,243969,Exochomus jamaicensis,Jamaican shield ladybeetle,species,10,6
+218430,173893,Didion punctatum,twice-stained miniature,species,10,6
+173893,475616,Didion,Didion,genus,20,6
+320348,243969,Exochomus metallicus,Exochomus metallicus,species,10,6
+320469,475794,Zagloba,Zagloba,genus,20,6
+1079681,491941,Cryptogonus ohtai,Cryptogonus ohtai,species,10,6
+361526,48988,Hippodamia washingtoni,Washington's Lady Beetle,species,10,6
+326425,326427,Coccinula sinensis,Coccinula sinensis,species,10,6
+458913,217265,Coccinella hieroglyphica kirbyi,Coccinella hieroglyphica kirbyi,subspecies,5,6
+961206,606184,Tenuisvalvae deyrrollei,Tenuisvalvae deyrrollei,species,10,6
+1269768,333796,Alloneda,Alloneda,genus,20,6
+1326506,333790,Plotinini,Plotinini,tribe,25,6
+790192,700821,Chnoodes chaudoiri,Chnoodes chaudoiri,species,10,6
+1227095,641236,Novius circumclusa,Shadow-backed Anovia,species,10,6
+528939,61791,Henosepilachna indica,Henosepilachna indica,species,10,6
+488072,215336,Brachiacantha quadripunctata quadripunctata,Brachiacantha quadripunctata quadripunctata,subspecies,5,6
+488142,133139,Hyperaspis caseyi,Hyperaspis caseyi,species,10,6
+547297,132004,Scymnus nigrinus,Black Scymnus,species,10,6
+1098656,132004,Scymnus hoffmanni,Scymnus hoffmanni,species,10,6
+230733,132004,Scymnus fraternus,Scymnus fraternus,species,10,6
+849809,475616,Horniolus,Horniolus,genus,20,6
+852511,54467,Psyllobora lata,Psyllobora lata,species,10,6
+980679,154560,Epilachna walteri,Epilachna walteri,species,10,6
+893302,333796,Spilindolla,Spilindolla,genus,20,6
+474256,176902,Mulsantina luteodorsa,Saffron Lady Beetle,species,10,6
+893303,893302,Spilindolla vigintiduonotata,Spilindolla vigintiduonotata,species,10,6
+320456,221377,Hippodamia moesta bowditchi,Bowditch's Lady Beetle,subspecies,5,6
+748321,211369,Stethorus gilvifrons,Stethorus gilvifrons,species,10,5
+877167,55490,Cycloneda vandenbergae,Cycloneda vandenbergae,species,10,5
+481874,126267,Coleomegilla maculata maculata,Coleomegilla maculata maculata,subspecies,5,5
+981289,981287,Hinda designata,Hinda designata,species,10,5
+458918,209827,Hippodamia sinuata spuria,Hippodamia sinuata spuria,subspecies,5,5
+488104,320468,Zilus horni,Eastern Velvethead Ladybug,species,10,5
+488173,133139,Hyperaspis weisei,Hyperaspis weisei,species,10,5
+893252,640755,Mada synemia,Mada synemia,species,10,5
+892416,1038541,Serratitibia,Serratitibia,genus,20,5
+908700,132004,Scymnus mitior,Scymnus mitior,species,10,5
+1094971,52506,Adalia bipunctata frigida,Adalia bipunctata frigida,subspecies,5,5
+959523,68761,Chilocorus similis,Chilocorus similis,species,10,5
+1104873,1104874,Afissula expansa,Afissula expansa,species,10,5
+710808,1375014,Scymnus schmidti,Schmidt's Scymnus,species,10,5
+905614,905622,Pseudoryssomus,Pseudoryssomus,genus,20,5
+905622,473856,Oryssomini,Oryssomini,tribe,25,5
+544019,52877,Halyzia straminea,Halyzia straminea,species,10,5
+318484,51702,Coccinella septempunctata septempunctata,Coccinella septempunctata septempunctata,subspecies,5,5
+1061143,173300,Brachiacantha groendali,Brachiacantha groendali,species,10,5
+1250569,337902,Phrynocaria perrotteti,Phrynocaria perrotteti,species,10,5
+547291,56735,Oenopia impustulata,Oenopia impustulata,species,10,5
+1081445,475802,Cryptognatha auriculata,Cryptognatha auriculata,species,10,5
+498858,329604,Scymnobius bilucernarius,Scymnobius bilucernarius,species,10,5
+1337103,1337100,Afrocleta eckloni,Kriedoring Lady Beetle,species,10,5
+320403,176696,Nephus guttulatus,Nephus guttulatus,species,10,5
+221374,48988,Hippodamia expurgata,Expurgate Lady Beetle,species,10,5
+1154833,475796,Sasajiscymnus hareja,Sasajiscymnus hareja,species,10,5
+926110,54467,Psyllobora rufosignata,Psyllobora rufosignata,species,10,5
+475803,373659,Arawana,Arawana,genus,20,5
+320376,133139,Hyperaspis inflexa,Hyperaspis inflexa,species,10,5
+774978,774973,Diekeana alternans,Diekeana alternans,species,10,5
+1075751,133139,Hyperaspis conclusa,Hyperaspis conclusa,species,10,5
+668924,61791,Henosepilachna bifasciata,Henosepilachna bifasciata,species,10,5
+473860,54467,Psyllobora schwarzi,Schwarz's Fairy Lady Beetle,species,10,5
+218476,173808,Diomus debilis,Diomus debilis,species,10,5
+1270575,475796,Sasajiscymnus kurohime,Sasajiscymnus kurohime,species,10,5
+473864,473863,Pharoscymnus flexibilis,Indian Lady Beetle,species,10,4
+1137696,790658,Zagreus tetraspilus,Zagreus tetraspilus,species,10,4
+984971,154560,Epilachna languida,Epilachna languida,species,10,4
+980463,154560,Epilachna rauli,Epilachna rauli,species,10,4
+458912,215467,Brumoides septentrionis septentrionis,Brumoides septentrionis septentrionis,subspecies,5,4
+488069,173300,Brachiacantha bollii,Brachiacantha bollii,species,10,4
+488097,475796,Sasajiscymnus tsugae,Sasajiscymnus tsugae,species,10,4
+885818,154560,Epilachna confusa,Epilachna confusa,species,10,4
+882214,154560,Epilachna ecuadorica,Epilachna ecuadorica,species,10,4
+1139440,154560,Epilachna nigrovittata,Epilachna nigrovittata,species,10,4
+969857,333796,Egleis,Egleis,genus,20,4
+892081,969857,Egleis adjuncta,Egleis adjuncta,species,10,4
+1065211,641236,Novius concolor,Novius concolor,species,10,4
+954660,460288,Cheilomenes propinqua nilotica,Cheilomenes propinqua nilotica,subspecies,5,4
+423764,154560,Epilachna dodecastigma,Epilachna dodecastigma,species,10,4
+940435,154560,Epilachna spreta,Epilachna spreta,species,10,4
+1123634,154560,Epilachna hektea,Epilachna hektea,species,10,4
+1064003,640627,Tetrabrachys marginatus,Tetrabrachys marginatus,species,10,4
+903947,375591,Apolinus terminalis,Apolinus terminalis,species,10,4
+928531,132004,Scymnus taishuensis,Scymnus taishuensis,species,10,4
+926556,790658,Zagreus constantini,Zagreus constantini,species,10,4
+1238407,790658,Zagreus adelae,Zagreus adelae,species,10,4
+1280915,56735,Oenopia walteri,Oenopia walteri,species,10,4
+1358820,333796,Eumegilla,Eumegilla,genus,20,4
+1358821,1358820,Eumegilla variolosa,Eumegilla variolosa,species,10,4
+1252463,54467,Psyllobora kirschi,Psyllobora kirschi,species,10,4
+565941,68761,Chilocorus infernalis,Chilocorus infernalis,species,10,4
+565951,51703,Coccinella luteopicta,Coccinella luteopicta,species,10,4
+320354,475793,Gnathoweisea,Gnathoweisea,genus,20,4
+337032,56735,Oenopia mimica,Oenopia mimica,species,10,4
+320419,132004,Scymnus coniferarum,Scymnus coniferarum,species,10,4
+331768,54467,Psyllobora bisigma,Galápagos Fairy Lady Beetle,species,10,4
+221371,48988,Hippodamia americana,American Lady Beetle,species,10,4
+230730,132004,Scymnus cervicalis,Scymnus cervicalis,species,10,4
+320338,623366,Cephaloscymnus,Cephaloscymnus,genus,20,4
+1189857,133139,Hyperaspis funesta,Hyperaspis funesta,species,10,4
+1173270,1173269,Docimocaria princeps,Docimocaria princeps,species,10,4
+230741,132004,Scymnus semiruber,Scymnus semiruber,species,10,4
+1263634,51703,Coccinella repanda,Coccinella repanda,species,10,4
+320450,320469,Zagloba ornata,Zagloba ornata,species,10,4
+1149117,975680,Parexochomus pubescens,Parexochomus pubescens,species,10,4
+1227091,641236,Novius fumidus,Novius fumidus,species,10,4
+1231172,55490,Cycloneda meander,Cycloneda meander,species,10,4
+1271134,126267,Coleomegilla maculata limensis,Coleomegilla maculata limensis,subspecies,5,4
+1323433,334606,Micraspis yunnanensis,Micraspis yunnanensis,species,10,4
+737410,132004,Scymnus quadrillum,Scymnus quadrillum,species,10,4
+1310341,1326506,Sphaeroplotina,Sphaeroplotina,genus,20,4
+1173269,333796,Docimocaria,Docimocaria,genus,20,4
+940495,154560,Epilachna marginella,Epilachna marginella,species,10,4
+1391355,640755,Mada virgata,Mada virgata,species,10,4
+789404,55490,Cycloneda ocelligera,Cycloneda ocelligera,species,10,4
+1244239,55490,Cycloneda delauneyi,Cycloneda delauneyi,species,10,4
+320393,133139,Hyperaspis revocans,Hyperaspis revocans,species,10,4
+488157,133139,Hyperaspis levrati,Hyperaspis levrati,species,10,4
+488166,133139,Hyperaspis ornatella,Hyperaspis ornatella,species,10,4
+849818,849809,Horniolus fortunatus,Horniolus fortunatus,species,10,4
+874734,133139,Hyperaspis polita,Hyperaspis polita,species,10,4
+488136,215467,Brumoides septentrionis hogei,Brumoides septentrionis hogei,subspecies,5,4
+980665,253035,Neda tredecimsignata,Neda tredecimsignata,species,10,4
+498851,133139,Hyperaspis pantherina,Hyperaspis pantherina,species,10,4
+320363,133139,Hyperaspis annexa,Hyperaspis annexa,species,10,4
+320374,133139,Hyperaspis fastidiosa,Hyperaspis fastidiosa,species,10,4
+606182,606184,Tenuisvalvae parenthesis,Tenuisvalvae parenthesis,species,10,4
+450477,173300,Brachiacantha albifrons,White-fronted Spurleg Lady Beetle,species,10,4
+1151034,333796,Isora,Isora,genus,20,4
+455667,68761,Chilocorus tricyclus,Chilocorus tricyclus,species,10,3
+455671,133139,Hyperaspis troglodytes,Hyperaspis troglodytes,species,10,3
+1179842,1179843,Cladis nitidula,Cladis nitidula,species,10,3
+1179843,373667,Cladis,Cladis,genus,20,3
+876993,154560,Epilachna radiata,Epilachna radiata,species,10,3
+1194886,176696,Nephus yotsumon,Nephus yotsumon,species,10,3
+775382,173808,Diomus thoracicus,Diomus thoracicus,species,10,3
+775547,132004,Scymnus limbatus,Bordered Scymnus,species,10,3
+488065,173300,Brachiacantha stephani,Brachiacantha stephani,species,10,3
+488070,173300,Brachiacantha testudo,Brachiacantha testudo,species,10,3
+488077,173300,Brachiacantha querceti,Brachiacantha querceti,species,10,3
+488181,132004,Scymnus creperus,Scymnus creperus,species,10,3
+1156599,333796,Pristonema,Pristonema,genus,20,3
+973075,154560,Epilachna pastica,Epilachna pastica,species,10,3
+1205522,154560,Epilachna albovittata,Epilachna albovittata,species,10,3
+891828,154560,Epilachna discolor,Epilachna discolor,species,10,3
+636761,636759,Bucolus cirrhosus,Bucolus cirrhosus,species,10,3
+1045147,61791,Henosepilachna reticulata,Henosepilachna reticulata,species,10,3
+1043548,334606,Micraspis satoi,Micraspis satoi,species,10,3
+1041990,337902,Phrynocaria astrolabiana,Phrynocaria astrolabiana,species,10,3
+1006307,790658,Zagreus carlosi,Zagreus carlosi,species,10,3
+1120628,54467,Psyllobora dissimilis,Psyllobora dissimilis,species,10,3
+946978,775031,Afissa dumerili,Afissa dumerili,species,10,3
+805144,253034,Rhyzobius alphabeticus,Rhyzobius alphabeticus,species,10,3
+909788,54467,Psyllobora roei,Psyllobora roei,species,10,3
+396429,253034,Rhyzobius consors,Rhyzobius consors,species,10,3
+903633,334606,Micraspis aphidectoides,Micraspis aphidectoides,species,10,3
+901373,61791,Henosepilachna yasutomii,Henosepilachna yasutomii,species,10,3
+929826,173300,Brachiacantha bruchi,Brachiacantha bruchi,species,10,3
+1238876,488138,Exoplectra fulgurata,Exoplectra fulgurata,species,10,3
+1238927,55490,Cycloneda tricolorata,Cycloneda tricolorata,species,10,3
+640630,333796,Xanthadalia,Xanthadalia,genus,20,3
+1239981,55490,Cycloneda eryngii,Cycloneda eryngii,species,10,3
+1353281,893283,Cyrea ferruginiceps,Cyrea ferruginiceps,species,10,3
+1354730,154560,Epilachna punctatissima,Epilachna punctatissima,species,10,3
+1252791,54467,Psyllobora distinguenda,Psyllobora distinguenda,species,10,3
+511714,511713,Afidenta tsynadica,Afidenta tsynadica,species,10,3
+1284543,61791,Henosepilachna proserpina,Henosepilachna proserpina,species,10,3
+1347654,55490,Cycloneda dieguezi,Cycloneda dieguezi,species,10,3
+1269776,1269768,Alloneda dodecaspilota,Alloneda dodecaspilota,species,10,3
+207646,207647,Illeis indica,Illeis indica,species,10,3
+320407,475793,Nipus,Nipus,genus,20,3
+320429,132004,Scymnus pacificus,Scymnus pacificus,species,10,3
+320479,133139,Hyperaspis dissoluta,Hyperaspis dissoluta,species,10,3
+343127,343126,Hyperaspis reppensis pseudopustulata,Hyperaspis reppensis pseudopustulata,subspecies,5,3
+221988,133139,Hyperaspis conviva,Hyperaspis conviva,species,10,3
+474255,176902,Mulsantina cyathigera,Ivory Lady Beetle,species,10,3
+484333,133139,Hyperaspis rotunda,Hyperaspis rotunda,species,10,3
+495462,51703,Coccinella venusta,Coccinella venusta,species,10,3
+788036,54467,Psyllobora hybrida,Psyllobora hybrida,species,10,3
+1240746,572670,Phymatosternus,Phymatosternus,genus,20,3
+1240745,1240746,Phymatosternus lewisii,Phymatosternus lewisii,species,10,3
+1103846,154560,Epilachna calligrapta,Epilachna calligrapta,species,10,3
+320353,243969,Exochomus californicus,Exochomus californicus,species,10,3
+1310344,1310341,Sphaeroplotina varimarginata,Sphaeroplotina varimarginata,species,10,3
+1260765,54467,Psyllobora subsimilis,Psyllobora subsimilis,species,10,3
+560736,61791,Henosepilachna septima,Henosepilachna septima,species,10,3
+1102748,176696,Nephus levaillanti,Nephus levaillanti,species,10,3
+1415431,373697,Malata,Malata,genus,20,3
+1293084,475793,Hong,Hong,genus,20,3
+1415433,1415431,Malata delphinae,Malata delphinae,species,10,3
+320368,133139,Hyperaspis bensonica,Hyperaspis bensonica,species,10,3
+221993,133139,Hyperaspis quadrivittata,Hyperaspis quadrivittata,species,10,3
+488165,133139,Hyperaspis paludicola,Hyperaspis paludicola,species,10,3
+488078,173976,Delphastus pallidus,Delphastus pallidus,species,10,3
+1136533,373667,Scymnodes,Scymnodes,genus,20,3
+216480,1372119,Ceratomegilla ulkei,Ulkei's Boreal Lady Beetle,species,10,3
+543204,143034,Hippodamia variegata doubledeayi,Hippodamia variegata doubledeayi,subspecies,5,3
+1056774,748397,Amida tricolor tricolor,Amida tricolor tricolor,subspecies,5,3
+1164759,133139,Hyperaspis scutifera,Hyperaspis scutifera,species,10,3
+1238459,893291,Dilatitibialis fuscomaculata,Dilatitibialis fuscomaculata,species,10,3
+680269,641306,Ortalia pallens,Ortalia pallens,species,10,3
+320397,133139,Hyperaspis significans,Hyperaspis significans,species,10,3
+1111027,243969,Exochomus octosignatus,Exochomus octosignatus,species,10,3
+954779,56735,Oenopia oncina,Oenopia oncina,species,10,3
+1284256,173264,Brumoides foudrasii,Brumoides foudrasii,species,10,3
+455672,132004,Scymnus impexus,Scymnus impexus,species,10,2
+870305,154560,Epilachna bistrispilota,Epilachna bistrispilota,species,10,2
+473855,54467,Psyllobora plagiata,Blotched Fairy Lady Beetle,species,10,2
+473869,373690,Decadiomus,Decadiomus,genus,20,2
+1191179,893283,Cyrea noticollis,Cyrea noticollis,species,10,2
+1178003,173300,Brachiacantha octopustulata,Brachiacantha octopustulata,species,10,2
+1178642,154560,Epilachna mutabilis,Epilachna mutabilis,species,10,2
+1183317,154560,Epilachna ambigua,Epilachna ambigua,species,10,2
+882216,154560,Epilachna approximata,Epilachna approximata,species,10,2
+849379,482446,Declivitata usambarica,Declivitata usambarica,species,10,2
+980523,154560,Epilachna velutina,Epilachna velutina,species,10,2
+981292,981287,Hinda ecuadorica,Hinda ecuadorica,species,10,2
+1149661,154560,Epilachna fausta,Epilachna fausta,species,10,2
+775000,373697,Eremochilus,Eremochilus,genus,20,2
+775001,775000,Eremochilus peregrinus,Eremochilus peregrinus,species,10,2
+488110,475800,Helesius nubilans,Helesius nubilans,species,10,2
+488124,177712,Hyperaspidius nanellus,Hyperaspidius nanellus,species,10,2
+488125,177712,Hyperaspidius transfugatus,Hyperaspidius transfugatus,species,10,2
+488153,133139,Hyperaspis globula,Hyperaspis globula,species,10,2
+488160,133139,Hyperaspis lewisi,Hyperaspis lewisi,species,10,2
+779237,473861,Sticholotidini,Sticholotidini,tribe,25,2
+774997,373697,Uniparodentata,Uniparodentata,genus,20,2
+1199172,154560,Epilachna vittigera,Epilachna vittigera,species,10,2
+1156602,1156599,Pristonema diluta,Pristonema diluta,species,10,2
+986432,154560,Epilachna colombiana,Epilachna colombiana,species,10,2
+1134699,173808,Diomus faustinus,Diomus faustinus,species,10,2
+893273,154560,Epilachna dives,Epilachna dives,species,10,2
+633927,154560,Epilachna quadricollis,Epilachna quadricollis,species,10,2
+498957,333796,Seladia,Seladia,genus,20,2
+636760,636759,Bucolus fourneti,Bucolus fourneti,species,10,2
+632637,56735,Oenopia bissexnotata,Oenopia bissexnotata,species,10,2
+908901,173264,Brumoides piae,Brumoides piae,species,10,2
+1040234,640755,Mada contempta,Mada contempta,species,10,2
+1086007,373485,Stictospilus,Stictospilus,genus,20,2
+1014601,475616,Scymniscus,Scymniscus,genus,20,2
+1036492,54467,Psyllobora abancayana,Psyllobora abancayana,species,10,2
+1000743,68761,Chilocorus politus,Chilocorus politus,species,10,2
+1115975,243969,Exochomus quadriplagiatus,Exochomus quadriplagiatus,species,10,2
+1116422,333790,Psylloborini,Psylloborini,tribe,25,2
+702608,373690,Heterodiomus,Heterodiomus,genus,20,2
+709194,709195,Microneda sicheli,Microneda sicheli,species,10,2
+709195,333796,Microneda,Microneda,genus,20,2
+1117989,893283,Cyrea tessulata,Cyrea tessulata,species,10,2
+1101338,774973,Diekeana isodontis,Diekeana isodontis,species,10,2
+1124069,154560,Epilachna pictipennis,Epilachna pictipennis,species,10,2
+829156,211369,Stethorus fenestralis,Stethorus fenestralis,species,10,2
+1077220,154560,Epilachna freudei,Epilachna freudei,species,10,2
+1061047,320338,Cephaloscymnus zimmermanni,Cephaloscymnus zimmermanni,species,10,2
+1082172,132004,Scymnus marginalis,Scymnus marginalis,species,10,2
+640628,333796,Anisolemnia,Anisolemnia,genus,20,2
+1232903,55490,Cycloneda amabilis,Cycloneda amabilis,species,10,2
+792268,378114,Serangium montazerii,Serangium montazerii,species,10,2
+1340267,640628,Anisolemnia planipennis,Anisolemnia planipennis,species,10,2
+1274600,132004,Scymnus paralleus,Scymnus paralleus,species,10,2
+1354541,133139,Hyperaspis conspirans,Hyperaspis conspirans,species,10,2
+1351745,154560,Epilachna v-pallidum,Epilachna v-pallidum,species,10,2
+1249431,1249432,Buprestodera mimetica,Buprestodera mimetica,species,10,2
+1249432,1326506,Buprestodera,Buprestodera,genus,20,2
+1234524,333796,Palaeoneda,Palaeoneda,genus,20,2
+657082,68761,Chilocorus solitus,Chilocorus solitus,species,10,2
+641515,779237,Lotis,Lotis,genus,20,2
+1226050,69204,Calvia chinensis,Calvia chinensis,species,10,2
+1286030,475795,Nephaspis acuta,Nephaspis acuta,species,10,2
+1281861,154560,Epilachna delessertii,Epilachna delessertii,species,10,2
+1292343,132004,Scymnus folchinii,Scymnus folchinii,species,10,2
+1269770,1269768,Alloneda osawai,Alloneda osawai,species,10,2
+1270430,154560,Epilachna pseudorealis,Epilachna pseudorealis,species,10,2
+1349087,333796,Cirocolla,Cirocolla,genus,20,2
+1349088,1349087,Cirocolla conspicillata,Cirocolla conspicillata,species,10,2
+1261314,54467,Psyllobora graphica,Psyllobora graphica,species,10,2
+1375853,473869,Decadiomus hughesi,Decadiomus hughesi,species,10,2
+1372129,1372119,Ceratomegilla rufocincta,Ceratomegilla rufocincta,species,10,2
+1293063,475793,Parasidis,Parasidis,genus,20,2
+1293066,1293063,Parasidis brethesi,Parasidis brethesi,species,10,2
+1293122,133139,Hyperaspis matronata,Hyperaspis matronata,species,10,2
+1376865,173808,Diomus sydneyensis,Diomus sydneyensis,species,10,2
+1389331,154560,Epilachna cordula,Epilachna cordula,species,10,2
+877170,418187,Eriopis concordia,Eriopis concordia,species,10,2
+1235959,475796,Sasajiscymnus parenthesis,Sasajiscymnus parenthesis,species,10,2
+320379,133139,Hyperaspis jovialis,Jovial Sigil Lady Beetle,species,10,2
+326424,326427,Coccinula crotchi,Coccinula crotchi,species,10,2
+320423,132004,Scymnus jacobianus,Scymnus jacobianus,species,10,2
+320447,320468,Zilus aterrimus,Western Velvethead Lady Beetle,species,10,2
+320451,320479,Hyperaspis dissoluta dissoluta,Hyperaspis dissoluta dissoluta,subspecies,5,2
+217262,174289,Coccidula lepida,Snow Lady Beetle,species,10,2
+215335,173300,Brachiacantha indubitabilis,Brachiacantha indubitabilis,species,10,2
+174270,475793,Coccidophilus,Coccidophilus,genus,20,2
+221379,48988,Hippodamia quindecimmaculata,Hippodamia quindecimmaculata,species,10,2
+230742,132004,Scymnus tenebrosus,Darkling Lady Beetle,species,10,2
+236428,221381,Hippodamia tredecimpunctata tibialis,Hippodamia tredecimpunctata tibialis,subspecies,5,2
+475800,475799,Helesius,Helesius,genus,20,2
+1410968,176902,Mulsantina alejandroi,Mulsantina alejandroi,species,10,2
+1374170,173300,Brachiacantha loricata,Brachiacantha loricata,species,10,2
+1238883,55490,Cycloneda lucasii,Cycloneda lucasii,species,10,2
+1389244,700821,Chnoodes trivia,Chnoodes trivia,species,10,2
+1194506,55490,Cycloneda sicardi,Cycloneda sicardi,species,10,2
+1086006,1086007,Stictospilus darwini,Stictospilus darwini,species,10,2
+1415738,333708,Coelophora circumvelata,Coelophora circumvelata,species,10,2
+1114693,481873,Coleomegilla quadrifasciata quadrifasciata,Coleomegilla quadrifasciata quadrifasciata,subspecies,5,2
+320406,320407,Nipus biplagiatus,Nipus biplagiatus,species,10,2
+1365833,373667,Orynipus,Orynipus,genus,20,2
+368554,333708,Coelophora jansoni,Coelophora jansoni,species,10,2
+1286717,893283,Cyrea colleen,Cyrea colleen,species,10,2
+936540,488138,Exoplectra batesii,Exoplectra batesii,species,10,2
+1230313,55490,Cycloneda separata,Cycloneda separata,species,10,2
+1280922,253033,Azya elegans,Azya elegans,species,10,2
+1406681,640627,Tetrabrachys connatus,Tetrabrachys connatus,species,10,2
+1277850,132004,Scymnus babai,Scymnus babai,species,10,2
+1078848,1078845,Harpasus quadrifolium,Harpasus quadrifolium,species,10,2
+488052,475803,Arawana arizonica,Arawana arizonica,species,10,2
+473853,173300,Brachiacantha arizonica,Arizona Spurleg Lady Beetle,species,10,2
+1363894,514244,Bulaea lividula,Bulaea lividula,species,10,2
+458919,221994,Hyperaspis signata signata,Hyperaspis signata signata,subspecies,5,2
+488146,1424071,Hyperaspis inedita,Hyperaspis inedita,species,10,2
+488158,133139,Hyperaspis medialis,Hyperaspis medialis,species,10,2
+488175,133139,Hyperaspis deludens,Hyperaspis deludens,species,10,2
+221989,133139,Hyperaspis disconotata,Hyperaspis disconotata,species,10,2
+1353938,221994,Hyperaspis signata bicentralis,Hyperaspis signata bicentralis,subspecies,5,2
+320392,133139,Hyperaspis schaefferi,Hyperaspis schaefferi,species,10,2
+320373,133139,Hyperaspis gemma,Hyperaspis gemma,species,10,2
+498854,475795,Nephaspis indus,Nephaspis indus,species,10,2
+1372136,1372119,Ceratomegilla schneideri,Ceratomegilla schneideri,species,10,2
+1263141,700821,Chnoodes gounellei,Chnoodes gounellei,species,10,2
+1138570,154560,Epilachna tumida,Epilachna tumida,species,10,2
+173809,173808,Diomus amabilis,Diomus amabilis,species,10,2
+1293089,52507,Adalia kuscheli,Adalia kuscheli,species,10,2
+320372,133139,Hyperaspis cincta,Corona Sigil Lady Beetle,species,10,2
+320388,133139,Hyperaspis oculaticauda,Hyperaspis oculaticauda,species,10,2
+1397451,641236,Novius sieboldii,Novius sieboldii,species,10,2
+320358,177712,Hyperaspidius hercules,Hyperaspidius hercules,species,10,2
+1390420,543686,Neocalvia blanchardi,Neocalvia blanchardi,species,10,2
+488119,173808,Diomus xanthaspis,Diomus xanthaspis,species,10,2
+1429531,893283,Cyrea arrowi,Cyrea arrowi,species,10,2
+455666,130576,Anisosticta borealis,Boreal Lady Beetle,species,10,1
+455673,132004,Scymnus indianensis,Scymnus indianensis,species,10,1
+868855,623366,Neaporia,Neaporia,genus,20,1
+605038,475795,Nephaspis picturata,Nephaspis picturata,species,10,1
+473868,176902,Mulsantina quinquelineata,Five-lined Lady Beetle,species,10,1
+1165013,133139,Hyperaspis bisignata,Hyperaspis bisignata,species,10,1
+1177188,154560,Epilachna bizonata,Epilachna bizonata,species,10,1
+877174,418187,Eriopis churai,Eriopis churai,species,10,1
+476048,154560,Epilachna chrysomelina,Melon Lady Beetle,species,10,1
+879225,130576,Anisosticta sibirica,Anisosticta sibirica,species,10,1
+1182437,893283,Cyrea courtney,Cyrea courtney,species,10,1
+1152491,774973,Diekeana sundaensis,Diekeana sundaensis,species,10,1
+450465,132004,Scymnus apicanus,Scymnus apicanus,species,10,1
+1138238,54467,Psyllobora evanescens,Psyllobora evanescens,species,10,1
+984575,154560,Epilachna aureola,Epilachna aureola,species,10,1
+1145383,51703,Coccinella saucerottii,Coccinella saucerottii,species,10,1
+980674,775015,Toxotoma pulchra,Toxotoma pulchra,species,10,1
+458914,217265,Coccinella hieroglyphica mannerheimi,Coccinella hieroglyphica mannerheimi,subspecies,5,1
+1149116,640627,Tetrabrachys cordatus,Tetrabrachys cordatus,species,10,1
+776498,498957,Seladia beltiana,Seladia beltiana,species,10,1
+1193965,378114,Serangium mysticum,Serangium mysticum,species,10,1
+777421,777418,Synona melanopepla,Synona melanopepla,species,10,1
+488071,215336,Brachiacantha quadripunctata flavifrons,Brachiacantha quadripunctata flavifrons,subspecies,5,1
+488081,173976,Delphastus sonoricus,Delphastus sonoricus,species,10,1
+488089,132004,Scymnus circumspectus,Scymnus circumspectus,species,10,1
+488099,176696,Nephus bivulnerus,Nephus bivulnerus,species,10,1
+488103,176696,Nephus timberlakei,Nephus timberlakei,species,10,1
+488108,320469,Zagloba hystrix,Zagloba hystrix,species,10,1
+488113,173808,Diomus bigemmeus,Diomus bigemmeus,species,10,1
+488120,173808,Diomus texanus,Diomus texanus,species,10,1
+488121,177712,Hyperaspidius venustulus,Hyperaspidius venustulus,species,10,1
+488126,177712,Hyperaspidius marginatus,Hyperaspidius marginatus,species,10,1
+488139,133139,Hyperaspis aemulator,Hyperaspis aemulator,species,10,1
+488151,133139,Hyperaspis imitator,Hyperaspis imitator,species,10,1
+488159,133139,Hyperaspis nigrosuturalis,Hyperaspis nigrosuturalis,species,10,1
+488167,133139,Hyperaspis oculifera,Hyperaspis oculifera,species,10,1
+488168,133139,Hyperaspis rivularis,Hyperaspis rivularis,species,10,1
+488170,133139,Hyperaspis triangulum,Hyperaspis triangulum,species,10,1
+488190,132004,Scymnus nemorivagus,Scymnus nemorivagus,species,10,1
+779245,354096,Selvadiini,Selvadiini,tribe,25,1
+1197767,893283,Cyrea lucy,Cyrea lucy,species,10,1
+1187316,55490,Cycloneda lorata,Cycloneda lorata,species,10,1
+774974,774973,Diekeana grayi,Diekeana grayi,species,10,1
+1158803,577711,Sidonis guttata,Sidonis guttata,species,10,1
+1157505,133139,Hyperaspis donzeli,Hyperaspis donzeli,species,10,1
+1158243,154560,Epilachna lorata,Epilachna lorata,species,10,1
+1134203,133139,Hyperaspis syriaca,Hyperaspis syriaca,species,10,1
+975682,975680,Parexochomus melanocephalus,Parexochomus melanocephalus,species,10,1
+1136534,1136533,Scymnodes difficilis,Scymnodes difficilis,species,10,1
+1204247,154560,Epilachna univittata,Epilachna univittata,species,10,1
+491988,491987,Chnootriba similis,Grain Lady Beetle,species,10,1
+893286,893283,Cyrea vicki,Cyrea vicki,species,10,1
+781538,61791,Henosepilachna kathmanduensis,Henosepilachna kathmanduensis,species,10,1
+780193,1121151,Neorhizobius,Neorhizobius,genus,20,1
+1203457,154560,Epilachna flavocirculus,Epilachna flavocirculus,species,10,1
+790196,700821,Chnoodes tarsalis,Chnoodes tarsalis,species,10,1
+911865,333796,Antineda,Antineda,genus,20,1
+1045403,133139,Hyperaspis lanatii,Hyperaspis lanatii,species,10,1
+1023955,893291,Dilatitibialis mulsanti,Dilatitibialis mulsanti,species,10,1
+1014604,1014605,Iberorhyzobius rondensis,Iberorhyzobius rondensis,species,10,1
+1014605,373667,Iberorhyzobius,Iberorhyzobius,genus,20,1
+936539,133139,Hyperaspis corcovado,Hyperaspis corcovado,species,10,1
+1094430,133139,Hyperaspis erythrocephalus,Hyperaspis erythrocephalus,species,10,1
+931821,143949,Curinus camboriuensis,Curinus camboriuensis,species,10,1
+954534,56735,Oenopia guttata,Oenopia guttata,species,10,1
+1116657,543686,Neocalvia fulgurata,Neocalvia fulgurata,species,10,1
+702609,702608,Heterodiomus darwini,Heterodiomus darwini,species,10,1
+824750,253034,Rhyzobius discolor,Rhyzobius discolor,species,10,1
+1101259,473863,Pharoscymnus fleischeri,Pharoscymnus fleischeri,species,10,1
+1101336,775031,Afissa gedeensis,Afissa gedeensis,species,10,1
+1101339,774997,Uniparodentata decipiens,Uniparodentata decipiens,species,10,1
+1121464,475799,Menoscelis,Menoscelis,genus,20,1
+1124582,154560,Epilachna chingjing,Epilachna chingjing,species,10,1
+829160,173808,Diomus insidiosus,Diomus insidiosus,species,10,1
+713640,154560,Epilachna latimargo,Epilachna latimargo,species,10,1
+713663,133139,Hyperaspis amurensis,Hyperaspis amurensis,species,10,1
+1126404,495462,Coccinella venusta adalioides,Coccinella venusta adalioides,subspecies,5,1
+909249,636759,Bucolus leucothrix,Bucolus leucothrix,species,10,1
+1074971,176902,Mulsantina latifasciata,Mulsantina latifasciata,species,10,1
+1074972,154560,Epilachna eusema,Epilachna eusema,species,10,1
+1076234,133139,Hyperaspis circumclusa,Hyperaspis circumclusa,species,10,1
+1076389,543686,Neocalvia areolata,Neocalvia areolata,species,10,1
+1077083,154560,Epilachna bituberculata,Epilachna bituberculata,species,10,1
+1075503,333796,Eoadalia,Eoadalia,genus,20,1
+396435,253034,Rhyzobius rarus,Rhyzobius rarus,species,10,1
+903767,68761,Chilocorus maculatus,Chilocorus maculatus,species,10,1
+1048629,130576,Anisosticta strigata,Anisosticta strigata,species,10,1
+1046975,54467,Psyllobora nigrovittata,Psyllobora nigrovittata,species,10,1
+929823,577710,Coelaria,Coelaria,genus,20,1
+929824,929823,Coelaria erythrogaster,Coelaria erythrogaster,species,10,1
+1080759,780193,Neorhizobius sanguinolentus,Neorhizobius sanguinolentus,species,10,1
+1082167,133139,Hyperaspis femorata,Hyperaspis femorata,species,10,1
+1239069,893283,Cyrea heidi,Cyrea heidi,species,10,1
+670444,133139,Hyperaspis marmottani,Hyperaspis marmottani,species,10,1
+1234525,1234524,Palaeoneda minata,Palaeoneda minata,species,10,1
+1234527,56735,Oenopia quadripunctata,Oenopia quadripunctata,species,10,1
+1234528,1234524,Palaeoneda auriculata,Palaeoneda auriculata,species,10,1
+1235249,1014601,Scymniscus anomus,Scymniscus anomus,species,10,1
+1305002,498957,Seladia augustiniana,Seladia augustiniana,species,10,1
+1303084,333796,Erythroneda,Erythroneda,genus,20,1
+1303086,1303084,Erythroneda vigilans,Erythroneda vigilans,species,10,1
+1303949,132004,Scymnus sodalis,Scymnus sodalis,species,10,1
+1340271,154560,Epilachna viridilineata,Epilachna viridilineata,species,10,1
+547792,176696,Nephus bisignatus,Two-spotted Nephus,species,10,1
+1274455,133139,Hyperaspis octonotata gordon,Hyperaspis octonotata gordon,species,10,1
+549908,128994,Coccinella transversoguttata ephippiata,Greenland Transverse Lady Beetle,subspecies,5,1
+1275955,577710,Dioria,Dioria,genus,20,1
+1275956,1275955,Dioria setigera,Dioria setigera,species,10,1
+1353845,133139,Hyperaspis leechi,Hyperaspis leechi,species,10,1
+1355715,54467,Psyllobora marshalli,Psyllobora marshalli,species,10,1
+1319028,418187,Eriopis canrash,Eriopis canrash,species,10,1
+1253114,132004,Scymnus japonicus,Scymnus japonicus,species,10,1
+1254405,173976,Delphastus huahuai,Delphastus huahuai,species,10,1
+1249644,173808,Diomus cucullifer,Diomus cucullifer,species,10,1
+1321596,133139,Hyperaspis elegantissima,Hyperaspis elegantissima,species,10,1
+1234170,154560,Epilachna madrigali,Epilachna madrigali,species,10,1
+1234511,56735,Oenopia chinensis,Oenopia chinensis,species,10,1
+1234522,56735,Oenopia signatella,Oenopia signatella,species,10,1
+1227388,132004,Scymnus marinus,Scymnus marinus,species,10,1
+641162,475793,Scymnomorphus,Scymnomorphus,genus,20,1
+1225258,243969,Exochomus ericae,Exochomus ericae,species,10,1
+1367030,343123,Platynaspis kapuri,Platynaspis kapuri,species,10,1
+1287697,373667,Cranoryssus,Cranoryssus,genus,20,1
+1290854,61791,Henosepilachna gangetica,Henosepilachna gangetica,species,10,1
+1364029,333708,Coelophora lushuiensis,Coelophora lushuiensis,species,10,1
+1364383,154560,Epilachna emerita,Epilachna emerita,species,10,1
+1282270,700821,Chnoodes terminalis,Chnoodes terminalis,species,10,1
+1361559,1061047,Cephaloscymnus zimmermanni australis,Cephaloscymnus zimmermanni australis,subspecies,5,1
+1369723,154560,Epilachna callangae,Epilachna callangae,species,10,1
+1369934,54467,Psyllobora lineola,Psyllobora lineola,species,10,1
+1369946,54467,Psyllobora approximata,Psyllobora approximata,species,10,1
+1369963,54467,Psyllobora hathawayi,Psyllobora hathawayi,species,10,1
+1369965,54467,Psyllobora luctuosa,Psyllobora luctuosa,species,10,1
+1369969,126268,Coleomegilla innotata,Coleomegilla innotata,species,10,1
+1369970,176546,Olla roatanensis,Olla roatanensis,species,10,1
+1339668,154560,Epilachna angustata,Epilachna angustata,species,10,1
+1339953,373667,Mimoscymnus,Mimoscymnus,genus,20,1
+1339954,1339953,Mimoscymnus macula,Mimoscymnus macula,species,10,1
+1330823,775015,Toxotoma cuzcoensis,Toxotoma cuzcoensis,species,10,1
+1266422,244626,Halmus hilli,Halmus hilli,species,10,1
+1335475,154560,Epilachna geometrica,Epilachna geometrica,species,10,1
+1270574,475796,Sasajiscymnus tainanensis,Sasajiscymnus tainanensis,species,10,1
+1264679,51703,Coccinella longifasciata,Coccinella longifasciata,species,10,1
+1265488,641236,Novius breviusculus,Novius breviusculus,species,10,1
+1372122,1372119,Ceratomegilla apicalis,Ceratomegilla apicalis,species,10,1
+1372135,1372123,Ceratomegilla alpina redtenbacheri,Ceratomegilla alpina redtenbacheri,subspecies,5,1
+1372900,173300,Brachiacantha isthmena,Brachiacantha isthmena,species,10,1
+1293092,55490,Cycloneda patagonica,Cycloneda patagonica,species,10,1
+1293096,55490,Cycloneda pretiosa,Cycloneda pretiosa,species,10,1
+1293205,154560,Epilachna octoverrucata,Epilachna octoverrucata,species,10,1
+1403519,1121464,Menoscelis flava,Menoscelis flava,species,10,1
+1406946,55490,Cycloneda andresi,Cycloneda andresi,species,10,1
+577711,577710,Sidonis,Sidonis,genus,20,1
+1391346,55490,Cycloneda boliviana,Cycloneda boliviana,species,10,1
+686597,54467,Psyllobora brunneosignata,Brownspot Fungus-eating Lady Beetle,species,10,1
+131989,131990,Tytthaspis phalerata,Tytthaspis phalerata,species,10,1
+320333,173300,Brachiacantha blaisdelli,Brachiacantha blaisdelli,species,10,1
+320360,177712,Hyperaspidius comparatus,Hyperaspidius comparatus,species,10,1
+320402,176696,Nephus quadrarius,Nephus quadrarius,species,10,1
+320413,132004,Scymnus ardelio,Scymnus ardelio,species,10,1
+320438,132004,Scymnus pallens,Scymnus pallens,species,10,1
+320448,779245,Selvadius,Amber Lady Beetles,genus,20,1
+332690,475616,Veronicobius,Veronicobius,genus,20,1
+343129,133139,Hyperaspis hoffmannseggi,Hyperaspis hoffmannseggi,species,10,1
+343136,132004,Scymnus mediterraneus,Scymnus mediterraneus,species,10,1
+343141,1375014,Scymnus apetzoides,Scymnus apetzoides,species,10,1
+343147,176696,Nephus helgae,Nephus helgae,species,10,1
+318483,51702,Coccinella septempunctata divaricata,Coccinella septempunctata divaricata,variety,5,1
+218477,173808,Diomus liebecki,Diomus liebecki,species,10,1
+217264,51703,Coccinella fulgida,Gleaming Lady Beetle,species,10,1
+221985,177712,Hyperaspidius vittigerus,Hyperaspidius vittigerus,species,10,1
+234655,215467,Brumoides septentrionis davisi,Brumoides septentrionis davisi,subspecies,5,1
+230728,132004,Scymnus brullei,Brullé's Dusky Lady Beetle,species,10,1
+230729,132004,Scymnus caudalis,Scymnus caudalis,species,10,1
+230737,132004,Scymnus marginicollis,Scymnus marginicollis,species,10,1
+230740,132004,Scymnus securus,Scymnus securus,species,10,1
+225805,176696,Nephus georgei,Nephus georgei,species,10,1
+1236512,68761,Chilocorus inornatus,Chilocorus inornatus,species,10,1
+484325,173808,Diomus pseudotaedatus,Diomus pseudotaedatus,species,10,1
+1395382,132004,Scymnus oertzeni,Scymnus oertzeni,species,10,1
+230726,132004,Scymnus abbreviatus,Scymnus abbreviatus,species,10,1
+1413688,253033,Azya murilloi,Azya murilloi,species,10,1
+1414560,368386,Sticholotis ferruginea,Sticholotis ferruginea,species,10,1
+464388,373659,Brumus,Brumus,genus,20,1
+954659,464388,Brumus octosignatus,Brumus octosignatus,species,10,1
+343142,132004,Scymnus rufipes,Scymnus rufipes,species,10,1
+1415232,69204,Calvia sichuanica,Calvia sichuanica,species,10,1
+498860,132004,Scymnus latemaculatus,Scymnus latemaculatus,species,10,1
+564820,779241,Pseudaspidimerus,Pseudaspidimerus,genus,20,1
+1415748,176696,Nephus flavopictus,Nephus flavopictus,species,10,1
+1305326,154560,Epilachna plagiata,Epilachna plagiata,species,10,1
+1418850,133139,Hyperaspis divaricata,Hyperaspis divaricata,species,10,1
+1419352,368386,Sticholotis obscurella,Sticholotis obscurella,species,10,1
+1350873,154560,Epilachna ostensoides,Epilachna ostensoides,species,10,1
+1269775,1269768,Alloneda callinotata,Alloneda callinotata,species,10,1
+1234523,56735,Oenopia takasago,Oenopia takasago,species,10,1
+927607,124431,Cycloneda sanguinea sanguinea,Cycloneda sanguinea sanguinea,subspecies,5,1
+1421889,176696,Nephus chatzmayri,Nephus chatzmayri,species,10,1
+1422220,606184,Tenuisvalvae ecoffeti,Tenuisvalvae ecoffeti,species,10,1
+1422495,176696,Geminosipho,Geminosipho,subgenus,15,1
+1422496,1422495,Nephus koltzei,Nephus koltzei,species,10,1
+1422566,893283,Cyrea mcclarini,Cyrea mcclarini,species,10,1
+1236520,68761,Chilocorus melas,Chilocorus melas,species,10,1
+867914,334606,Micraspis kiotoensis,Micraspis kiotoensis,species,10,1
+1423629,543686,Neocalvia barrigai,Neocalvia barrigai,species,10,1
+978089,775031,Afissa craspedotricha,Afissa craspedotricha,species,10,1
+343133,132004,Scymnus ater,Scymnus ater,species,10,1
+1354158,133139,Hyperaspis cruenta,Hyperaspis cruenta,species,10,1
+320371,133139,Hyperaspis disrupta,Hyperaspis disrupta,species,10,1
+488152,1424071,Hyperaspis haematosticta,Hyperaspis haematosticta,species,10,1
+1075504,1075503,Eoadalia koltzei,Eoadalia koltzei,species,10,1
+1425955,373667,Sumnius,Sumnius,genus,20,1
+1425956,1425955,Sumnius brunneus,Sumnius brunneus,species,10,1
+1425996,488138,Exoplectra calcarata,Exoplectra calcarata,species,10,1
+1029007,176546,Olla timberlakei,Olla timberlakei,species,10,1
+1423803,475803,Arawana scapularis,Arawana scapularis,species,10,1
+1398450,133139,Hyperaspis orthivora,Hyperaspis orthivora,species,10,1
+523180,373659,Phaenochilus,Phaenochilus,genus,20,1
+1236513,68761,Chilocorus hauseri,Chilocorus hauseri,species,10,1
+488140,133139,Hyperaspis bolteri,Hyperaspis bolteri,species,10,1
+320458,221376,Hippodamia glacialis extensa,Hippodamia glacialis extensa,subspecies,5,1
+1428858,893291,Dilatitibialis guttipennis,Dilatitibialis guttipennis,species,10,1
+320394,133139,Hyperaspis querquesi,Hyperaspis querquesi,species,10,1
+488209,177712,Hyperaspidius andrewsi,Hyperaspidius andrewsi,species,10,1
+1429529,893291,Dilatitibialis tiffany,Dilatitibialis tiffany,species,10,1
+1429532,133139,Hyperaspis cracentis,Hyperaspis cracentis,species,10,1
+1151033,1151034,Isora anceps,Isora anceps,species,10,0
+455669,133139,Hyperaspis brunnescens,Hyperaspis brunnescens,species,10,0
+455670,133139,Hyperaspis pratensis,Hyperaspis pratensis,species,10,0
+472129,329604,Scymnobius pernambucensis,Scymnobius pernambucensis,species,10,0
+868856,868855,Neaporia metallica,Neaporia metallica,species,10,0
+869154,869153,Jauravia pallidula,Jauravia pallidula,species,10,0
+471620,471619,Afidentula siamensis,Afidentula siamensis,species,10,0
+1175467,48486,Monocoryninae,Monocoryninae,subfamily,27,0
+473867,211369,Stethorus caseyi,Casey's Mite Destroyer,species,10,0
+473870,473869,Decadiomus bahamicus,Rubin Vase Lady Beetle,species,10,0
+867916,334606,Micraspis pusillus,Micraspis pusillus,species,10,0
+1189595,176696,Nephus depressiusculus,Nephus depressiusculus,species,10,0
+1189795,69204,Calvia explanata,Calvia explanata,species,10,0
+475105,373667,Rodatus,Rodatus,genus,20,0
+475106,475105,Rodatus bajulus,Rodatus bajulus,species,10,0
+989576,989575,Adira clarkii,Adira clarkii,species,10,0
+737611,173808,Diomus lupusapudoves,Diomus lupusapudoves,species,10,0
+450453,132004,Scymnus aquilonarius,Scymnus aquilonarius,species,10,0
+450454,132004,Scymnus opaculus,Scymnus opaculus,species,10,0
+450455,133139,Hyperaspis jasperensis,Hyperaspis jasperensis,species,10,0
+450462,68761,Chilocorus hexacyclus,Chilocorus hexacyclus,species,10,0
+450466,132004,Scymnus paracanus,Scymnus paracanus,species,10,0
+450467,132004,Scymnus postpinctus,Scymnus postpinctus,species,10,0
+450471,133139,Hyperaspis consimilis,Hyperaspis consimilis,species,10,0
+450482,177712,Hyperaspidius mimus,Hyperaspidius mimus,species,10,0
+450484,132004,Scymnus carri,Scymnus carri,species,10,0
+849810,849809,Horniolus siamensis,Horniolus siamensis,species,10,0
+849811,849809,Horniolus sororius,Horniolus sororius,species,10,0
+849812,849809,Horniolus kyushuensis,Horniolus kyushuensis,species,10,0
+849813,849809,Horniolus novempunctatus,Horniolus novempunctatus,species,10,0
+849814,849809,Horniolus dispar,Horniolus dispar,species,10,0
+849815,849809,Horniolus hisamatsui,Horniolus hisamatsui,species,10,0
+849816,849809,Horniolus okinawensis,Horniolus okinawensis,species,10,0
+849817,849809,Horniolus hainanensis,Horniolus hainanensis,species,10,0
+449905,211369,Stethorus siphonulus,Stethorus siphonulus,species,10,0
+980522,154560,Epilachna axillaris,Epilachna axillaris,species,10,0
+981291,981287,Hinda joeli,Hinda joeli,species,10,0
+458920,225808,Nephus ornatus naviculatus,Nephus ornatus naviculatus,subspecies,5,0
+458921,225808,Nephus ornatus ornatus,Nephus ornatus ornatus,subspecies,5,0
+738965,133085,Myzia tridens,Myzia tridens,species,10,0
+738972,333790,Monocorynini,Monocorynini,tribe,25,0
+453738,231726,Stethorus punctum punctum,Stethorus punctum punctum,subspecies,5,0
+775005,775015,Toxotoma orbicula,Toxotoma orbicula,species,10,0
+775006,775015,Toxotoma huanucoi,Toxotoma huanucoi,species,10,0
+775007,775015,Toxotoma tridentata,Toxotoma tridentata,species,10,0
+775008,775015,Toxotoma disparans,Toxotoma disparans,species,10,0
+775009,775015,Toxotoma rosae,Toxotoma rosae,species,10,0
+775010,775015,Toxotoma imitator,Toxotoma imitator,species,10,0
+775011,775015,Toxotoma townsendi,Toxotoma townsendi,species,10,0
+775012,775015,Toxotoma longicruri,Toxotoma longicruri,species,10,0
+775013,775015,Toxotoma chapini,Toxotoma chapini,species,10,0
+775014,775015,Toxotoma banosi,Toxotoma banosi,species,10,0
+775024,775031,Afissa cochinsinensis,Afissa cochinsinensis,species,10,0
+775025,154560,Epilachna orthofasciata,Epilachna orthofasciata,species,10,0
+775026,775031,Afissa expansa,Afissa expansa,species,10,0
+775027,775031,Afissa mirabiloides,Afissa mirabiloides,species,10,0
+775028,775031,Afissa annamensis,Afissa annamensis,species,10,0
+775029,775031,Afissa bicrescens,Afissa bicrescens,species,10,0
+775030,775031,Afissa subacuta,Afissa subacuta,species,10,0
+775097,154560,Epilachna modesta,Epilachna modesta,species,10,0
+775098,154560,Epilachna difficilis,Epilachna difficilis,species,10,0
+1193721,475795,Nephaspis bootes,Nephaspis bootes,species,10,0
+622782,61791,Henosepilachna implicata,Henosepilachna implicata,species,10,0
+488055,243969,Exochomus townsendi,Exochomus townsendi,species,10,0
+488063,173300,Brachiacantha soltaui,Brachiacantha soltaui,species,10,0
+488064,173300,Brachiacantha floridensis,Brachiacantha floridensis,species,10,0
+777420,777418,Synona martini,Synona martini,species,10,0
+777422,777418,Synona rougeti,Synona rougeti,species,10,0
+488068,173300,Brachiacantha schwarzi,Brachiacantha schwarzi,species,10,0
+488076,475802,Cryptognatha nodiceps,Cryptognatha nodiceps,species,10,0
+488079,176983,Microweisea minuta,Pinpoint Lady Beetle,species,10,0
+488080,173976,Delphastus dejavu,Delphastus dejavu,species,10,0
+488082,176983,Microweisea coccidivora,Banded Pinpoint Lady Beetle,species,10,0
+488083,176983,Microweisea ovalis,Microweisea ovalis,species,10,0
+488084,320407,Nipus planatus,Nipus planatus,species,10,0
+488085,320338,Cephaloscymnus laevis,Cephaloscymnus laevis,species,10,0
+488086,320338,Cephaloscymnus zimmermani,Cephaloscymnus zimmermani,species,10,0
+488087,488086,Cephaloscymnus zimmermani zimmermani,Cephaloscymnus zimmermani zimmermani,subspecies,5,0
+488088,174270,Coccidophilus marginata,Coccidophilus marginata,species,10,0
+488090,488086,Cephaloscymnus zimmermani australis,Cephaloscymnus zimmermani australis,subspecies,5,0
+488091,320354,Gnathoweisea schwarzi,Gnathoweisea schwarzi,species,10,0
+488092,320354,Gnathoweisea ferox,Gnathoweisea ferox,species,10,0
+488093,320354,Gnathoweisea micula,Gnathoweisea micula,species,10,0
+488094,320354,Gnathoweisea texana,Gnathoweisea texana,species,10,0
+488095,132004,Scymnus enochrus,Scymnus enochrus,species,10,0
+488098,475795,Nephaspis oculatus,Nephaspis oculatus,species,10,0
+488100,176696,Nephus alyssae,Nephus alyssae,species,10,0
+488101,176696,Nephus wickhami,Nephus wickhami,species,10,0
+488102,176696,Nephus schwarzi,Nephus schwarzi,species,10,0
+488105,320468,Zilus subtropicus,Zilus subtropicus,species,10,0
+488106,320469,Zagloba bicolor,Zagloba bicolor,species,10,0
+488107,320469,Zagloba satana,Zagloba satana,species,10,0
+488109,320468,Zilus eleutherae,Zilus eleutherae,species,10,0
+488111,475800,Helesius nigripennis,Helesius nigripennis,species,10,0
+488114,173808,Diomus austrinus,Diomus austrinus,species,10,0
+488115,173808,Diomus myrmidon,Diomus myrmidon,species,10,0
+488116,173808,Diomus floridanus,Diomus floridanus,species,10,0
+488117,173808,Diomus balteatus,Diomus balteatus,species,10,0
+488118,173808,Diomus arizonicus,Diomus arizonicus,species,10,0
+488122,177712,Hyperaspidius flavocephalus,Hyperaspidius flavocephalus,species,10,0
+488123,177712,Hyperaspidius militaris,Hyperaspidius militaris,species,10,0
+488127,177712,Hyperaspidius pallescens,Hyperaspidius pallescens,species,10,0
+488128,177712,Hyperaspidius wolcotti,Hyperaspidius wolcotti,species,10,0
+488130,177712,Hyperaspidius ingenitus,Hyperaspidius ingenitus,species,10,0
+488131,177712,Hyperaspidius oblongus,Hyperaspidius oblongus,species,10,0
+488132,177712,Hyperaspidius shauli,Hyperaspidius shauli,species,10,0
+488137,488138,Exoplectra schaefferi,Exoplectra schaefferi,species,10,0
+488141,133139,Hyperaspis binaria,Hyperaspis binaria,species,10,0
+488143,133139,Hyperaspis sanctaeritae,Hyperaspis sanctaeritae,species,10,0
+488144,133139,Hyperaspis concavus,Hyperaspis concavus,species,10,0
+488145,133139,Hyperaspis pistillata,Hyperaspis pistillata,species,10,0
+488148,133139,Hyperaspis esclavium,Hyperaspis esclavium,species,10,0
+488149,133139,Hyperaspis dobzhanskyi,Hyperaspis dobzhanskyi,species,10,0
+488150,133139,Hyperaspis immaculata,Hyperaspis immaculata,species,10,0
+488155,133139,Hyperaspis filiola,Hyperaspis filiola,species,10,0
+488161,133139,Hyperaspis simulatrix,Hyperaspis simulatrix,species,10,0
+488162,133139,Hyperaspis protensa,Hyperaspis protensa,species,10,0
+488164,133139,Hyperaspis pinguis,Hyperaspis pinguis,species,10,0
+488169,133139,Hyperaspis tuckeri,Hyperaspis tuckeri,species,10,0
+488171,133139,Hyperaspis uniformis,Hyperaspis uniformis,species,10,0
+488172,133139,Hyperaspis uteana,Hyperaspis uteana,species,10,0
+488177,132004,Scymnus festatus,Scymnus festatus,species,10,0
+488178,132004,Scymnus pulvinatus,Scymnus pulvinatus,species,10,0
+488180,132004,Scymnus consobrinus,Scymnus consobrinus,species,10,0
+488182,132004,Scymnus garlandicus,Scymnus garlandicus,species,10,0
+488183,132004,Scymnus socer,Scymnus socer,species,10,0
+488184,211369,Stethorus utilis,Stethorus utilis,species,10,0
+488185,211369,Stethorus pinachi,Stethorus pinachi,species,10,0
+488186,450465,Scymnus apicanus pseudapicanus,Scymnus apicanus pseudapicanus,subspecies,5,0
+488187,450465,Scymnus apicanus apicanus,Scymnus apicanus apicanus,subspecies,5,0
+488188,450466,Scymnus paracanus linearis,Scymnus paracanus linearis,subspecies,5,0
+488189,450466,Scymnus paracanus paracanus,Scymnus paracanus paracanus,subspecies,5,0
+488191,132004,Scymnus wingoi,Scymnus wingoi,species,10,0
+488192,132004,Scymnus pauculus,Scymnus pauculus,species,10,0
+488193,132004,Scymnus flavescens,Scymnus flavescens,species,10,0
+488194,132004,Scymnus monticola,Scymnus monticola,species,10,0
+488195,132004,Scymnus renoicus,Scymnus renoicus,species,10,0
+488196,132004,Scymnus mormon,Scymnus mormon,species,10,0
+488197,132004,Scymnus papago,Scymnus papago,species,10,0
+488198,132004,Scymnus uteanus,Scymnus uteanus,species,10,0
+488199,132004,Scymnus simulans,Scymnus simulans,species,10,0
+488200,132004,Scymnus barberi,Scymnus barberi,species,10,0
+488201,132004,Scymnus nigricollis,Scymnus nigricollis,species,10,0
+488202,132004,Scymnus neomexicanus,Scymnus neomexicanus,species,10,0
+488203,132004,Scymnus caffer,Scymnus caffer,species,10,0
+488204,132004,Scymnus hubbardi,Scymnus hubbardi,species,10,0
+488205,132004,Scymnus bryanti,Scymnus bryanti,species,10,0
+488206,132004,Scymnus peninsularis,Scymnus peninsularis,species,10,0
+488207,132004,Scymnus howdeni,Scymnus howdeni,species,10,0
+488208,132004,Scymnus coosi,Scymnus coosi,species,10,0
+488210,177712,Hyperaspidius blatchleyi,Hyperaspidius blatchleyi,species,10,0
+488211,177712,Hyperaspidius nacelles,Hyperaspidius nacelles,species,10,0
+488273,211369,Stethorus vagans,Stethorus vagans,species,10,0
+779240,373485,Carinodulini,Carinodulini,tribe,25,0
+1199106,1101792,Henosepilachna vigintisexpunctata vigintisexpunctata,Henosepilachna vigintisexpunctata vigintisexpunctata,subspecies,5,0
+1199107,1101792,Henosepilachna vigintisexpunctata doryca,Henosepilachna vigintisexpunctata doryca,subspecies,5,0
+1187039,1187050,Neaptera purpurea,Neaptera purpurea,species,10,0
+1187040,1187050,Neaptera viridissima,Neaptera viridissima,species,10,0
+1187041,1187050,Neaptera cubensis,Neaptera cubensis,species,10,0
+1187042,1187050,Neaptera dissita,Neaptera dissita,species,10,0
+1187050,779237,Neaptera,Neaptera,genus,20,0
+482448,482446,Declivitata kibonotensis,Declivitata kibonotensis,species,10,0
+885969,253034,Rhyzobius xanthurus,Rhyzobius xanthurus,species,10,0
+774986,690049,Solanophila dregei tunguensis,Solanophila dregei tunguensis,subspecies,5,0
+774999,775000,Eremochilus weisei,Eremochilus weisei,species,10,0
+1199105,1101792,Henosepilachna vigintisexpunctata philippinensis,Henosepilachna vigintisexpunctata philippinensis,subspecies,5,0
+1154832,475796,Sasajiscymnus orbiculatus,Sasajiscymnus orbiculatus,species,10,0
+1154835,475796,Sasajiscymnus sylvaticus,Sasajiscymnus sylvaticus,species,10,0
+1156600,1156599,Pristonema coccinea,Pristonema coccinea,species,10,0
+453231,320448,Selvadius nunenmacheri,Selvadius nunenmacheri,species,10,0
+1135654,173808,Diomus damasus,Diomus damasus,species,10,0
+979331,243969,Exochomus undulatus,Exochomus undulatus,species,10,0
+1205833,373485,Madeirodula,Madeirodula,genus,20,0
+491989,491987,Chnootriba curriei,Chnootriba curriei,species,10,0
+891627,243969,Exochomus apicatus,Exochomus apicatus,species,10,0
+891629,243969,Exochomus bicolor,Exochomus bicolor,species,10,0
+891631,243969,Exochomus bisbinotatus,Exochomus bisbinotatus,species,10,0
+891632,243969,Exochomus bouvieri,Exochomus bouvieri,species,10,0
+891638,243969,Exochomus championi,Exochomus championi,species,10,0
+891639,243969,Exochomus cinctivestis,Exochomus cinctivestis,species,10,0
+891640,243969,Exochomus contristatus,Exochomus contristatus,species,10,0
+891642,243969,Exochomus dallasi,Exochomus dallasi,species,10,0
+631907,354799,Henosepilachna vigintioctopunctata pardalis,Henosepilachna vigintioctopunctata pardalis,subspecies,5,0
+631908,354799,Henosepilachna vigintioctopunctata vigintioctopunctata,Henosepilachna vigintioctopunctata vigintioctopunctata,subspecies,5,0
+897723,373667,Psorolyma,Psorolyma,genus,20,0
+897724,897723,Psorolyma maxillosa,Psorolyma maxillosa,species,10,0
+897725,897723,Psorolyma baorucensis,Psorolyma baorucensis,species,10,0
+897726,897723,Psorolyma cyanella,Psorolyma cyanella,species,10,0
+632639,632638,Henosepilachna vigintioctomaculata coalescens,Henosepilachna vigintioctomaculata coalescens,subspecies,5,0
+498850,333708,Coelophora atrolineata,Coelophora atrolineata,species,10,0
+498853,475795,Nephaspis bicolor,Nephaspis bicolor,species,10,0
+498855,176696,Nephus roepkei,Nephus roepkei,species,10,0
+498857,475796,Sasajiscymnus anomalus,Sasajiscymnus anomalus,species,10,0
+498859,132004,Scymnus dorcatomoides,Scymnus dorcatomoides,species,10,0
+498861,132004,Scymnus uncinatus,Scymnus uncinatus,species,10,0
+498862,132004,Scymnus ambulans,Scymnus ambulans,species,10,0
+498864,448032,Telsimia nitida,Telsimia nitida,species,10,0
+498958,498957,Seladia nigricollis,Seladia nigricollis,species,10,0
+790191,700821,Chnoodes brasiliensis,Chnoodes brasiliensis,species,10,0
+790193,700821,Chnoodes discomaculata,Chnoodes discomaculata,species,10,0
+790194,700821,Chnoodes pentagona,Chnoodes pentagona,species,10,0
+790195,700821,Chnoodes pseudosanguinea,Chnoodes pseudosanguinea,species,10,0
+790197,700821,Chnoodes machadoi,Chnoodes machadoi,species,10,0
+790198,700821,Chnoodes unimaculata,Chnoodes unimaculata,species,10,0
+790956,779237,Filipinolotis,Filipinolotis,genus,20,0
+1065207,641236,Novius argodi,Novius argodi,species,10,0
+1065208,641236,Novius obscuricollis,Novius obscuricollis,species,10,0
+1065213,641236,Novius iceryae,Novius iceryae,species,10,0
+385027,375373,Adoxellus picinus,Adoxellus picinus,species,10,0
+1053928,143034,Hippodamia variegata variegata,Hippodamia variegata variegata,subspecies,5,0
+1054187,343145,Nephus quadrimaculatus quadrimaculatus,Nephus quadrimaculatus quadrimaculatus,subspecies,5,0
+1054799,697535,Lotis nigrocincta nigrocincta,Lotis nigrocincta nigrocincta,subspecies,5,0
+1054919,697433,Hyperaspis sjoestedti sjoestedti,Hyperaspis sjoestedti sjoestedti,subspecies,5,0
+1054931,133066,Myzia oblongoguttata oblongoguttata,Myzia oblongoguttata oblongoguttata,form,5,0
+1052702,697300,Declivitata hamata hamata,Declivitata hamata hamata,subspecies,5,0
+1052835,697265,Exochomus troberti troberti,Exochomus troberti troberti,subspecies,5,0
+1053059,690049,Solanophila dregei dregei,Solanophila dregei dregei,subspecies,5,0
+1056230,128712,Coccinella californica californica,Coccinella californica californica,form,5,0
+1056566,320477,Hyperaspis senegalensis senegalensis,Hyperaspis senegalensis senegalensis,subspecies,5,0
+1020909,132004,Scymnus natchezianus,Scymnus natchezianus,species,10,0
+1026334,55490,Cycloneda rubripennis,Cycloneda rubripennis,species,10,0
+1026335,54467,Psyllobora taedata,Psyllobora taedata,species,10,0
+61531,61533,Propylea fallax,Propylea fallax,species,10,0
+56732,56735,Oenopia alesioides,Oenopia alesioides,species,10,0
+56734,56735,Oenopia baoshanensis,Oenopia baoshanensis,species,10,0
+56737,56735,Oenopia adelgivora,Oenopia adelgivora,species,10,0
+52878,52877,Halyzia nepalensis,Halyzia nepalensis,species,10,0
+52879,52877,Halyzia hauseri,Halyzia hauseri,species,10,0
+52880,52877,Halyzia shirozui,Halyzia shirozui,species,10,0
+1027401,623366,Prodilis,Prodilis,genus,20,0
+1027402,1027401,Prodilis inclytus,Prodilis inclytus,species,10,0
+1027403,1027401,Prodilis jodi,Prodilis jodi,species,10,0
+1014598,779237,Coelopterus,Coelopterus,genus,20,0
+1014599,1014598,Coelopterus salinus,Coelopterus salinus,species,10,0
+1014600,1014601,Scymniscus zaisanensis,Scymniscus zaisanensis,species,10,0
+1014602,1014601,Scymniscus fuerschi,Scymniscus fuerschi,species,10,0
+1014603,1014601,Scymniscus helgae,Scymniscus helgae,species,10,0
+1016390,132004,Scymnus jakowlewi,Scymnus jakowlewi,species,10,0
+1036722,132004,Scymnus partitus,Scymnus partitus,species,10,0
+1007055,1007056,Zenoria dozieri,Zenoria dozieri,species,10,0
+1007056,557248,Zenoria,Zenoria,genus,20,0
+1007057,1007056,Zenoria schwarzi,Zenoria schwarzi,species,10,0
+1007058,1007056,Zenoria patula,Zenoria patula,species,10,0
+1007059,1007056,Zenoria peruviana,Zenoria peruviana,species,10,0
+1007060,1007056,Zenoria purpurea,Zenoria purpurea,species,10,0
+1007061,1007056,Zenoria variabilis,Zenoria variabilis,species,10,0
+1007062,1007056,Zenoria serva,Zenoria serva,species,10,0
+1007063,1007056,Zenoria carinata,Zenoria carinata,species,10,0
+1007064,1007056,Zenoria discrepa,Zenoria discrepa,species,10,0
+1000060,68761,Chilocorus foersteri,Chilocorus foersteri,species,10,0
+1094812,640627,Tetrabrachys grandis,Tetrabrachys grandis,species,10,0
+410251,332690,Veronicobius macrostictus,Veronicobius macrostictus,species,10,0
+409066,253034,Rhyzobius pallidiceps,Rhyzobius pallidiceps,species,10,0
+1094424,133139,Oxynychus,Oxynychus,subgenus,15,0
+1114065,61791,Henosepilachna pustulosa,Henosepilachna pustulosa,species,10,0
+954629,132004,Scymnus flavicollis,Scymnus flavicollis,species,10,0
+954638,173808,Diomus rubidus,Diomus rubidus,species,10,0
+954648,176696,Nephus hiekei,Nephus hiekei,species,10,0
+954655,176696,Nephus nigricans,Nephus nigricans,species,10,0
+1110379,132004,Scymnus fennicus,Scymnus fennicus,species,10,0
+1110380,176696,Nephus jacobsoni,Nephus jacobsoni,species,10,0
+702606,702608,Heterodiomus celestine,Heterodiomus celestine,species,10,0
+702607,702608,Heterodiomus canisius,Heterodiomus canisius,species,10,0
+805165,543922,Archegleis duplicata,Archegleis duplicata,species,10,0
+414134,397505,Stethorus griseus charidema,Stethorus griseus charidema,subspecies,5,0
+1104875,1104874,Afissula kambaitana,Afissula kambaitana,species,10,0
+1104876,1104874,Afissula rana,Afissula rana,species,10,0
+1104877,1104874,Afissula arisana,Afissula arisana,species,10,0
+1104878,775031,Afissa rana,Afissa rana,species,10,0
+1101791,61791,Henosepilachna kaszabi,Henosepilachna kaszabi,species,10,0
+1101793,61791,Henosepilachna guttatopustulata,Henosepilachna guttatopustulata,species,10,0
+414764,211369,Stethorus parastethorus,Stethorus parastethorus,subgenus,15,0
+1105530,48487,Harmonia manillana,Harmonia manillana,species,10,0
+1103819,781573,Papuaepilachna biroi,Papuaepilachna biroi,species,10,0
+1103425,61791,Henosepilachna niaki,Henosepilachna niaki,species,10,0
+1103433,61791,Henosepilachna suffusa,Henosepilachna suffusa,species,10,0
+1121151,473856,Exoplectrini,Exoplectrini,tribe,25,0
+1121426,1121464,Menoscelis stephani,Menoscelis stephani,species,10,0
+961777,176696,Nephus bicinctus,Nephus bicinctus,species,10,0
+710698,710697,Epilachna chinensis tsushimana,Epilachna chinensis tsushimana,subspecies,5,0
+1125567,133139,Hyperaspis transversoguttata,Hyperaspis transversoguttata,species,10,0
+1126676,173808,Diomus vitus,Diomus vitus,species,10,0
+397505,211369,Stethorus griseus,Stethorus griseus,species,10,0
+398653,332690,Veronicobius aucklandiae,Veronicobius aucklandiae,species,10,0
+398654,332690,Veronicobius hirtus,Veronicobius hirtus,species,10,0
+396430,253034,Rhyzobius eximius,Rhyzobius eximius,species,10,0
+396432,253034,Rhyzobius minutulus,Rhyzobius minutulus,species,10,0
+396433,253034,Rhyzobius nigritulus,Rhyzobius nigritulus,species,10,0
+396434,253034,Rhyzobius prolongatus,Rhyzobius prolongatus,species,10,0
+396436,253034,Rhyzobius suffusus,Rhyzobius suffusus,species,10,0
+396438,253034,Rhyzobius terrenus,Rhyzobius terrenus,species,10,0
+396439,253034,Rhyzobius tristis,Rhyzobius tristis,species,10,0
+396441,253034,Rhyzobius villosus,Rhyzobius villosus,species,10,0
+1075847,1075846,Erithionyx lanosus,Erithionyx lanosus,species,10,0
+1078846,1078845,Harpasus pallidilabris,Harpasus pallidilabris,species,10,0
+1078847,1078845,Harpasus aureus,Harpasus aureus,species,10,0
+1078850,905625,Oryssomus subterminatus,Oryssomus subterminatus,species,10,0
+905615,905614,Pseudoryssomus pumilus,Pseudoryssomus pumilus,species,10,0
+905616,905614,Pseudoryssomus formosus,Pseudoryssomus formosus,species,10,0
+905617,905614,Pseudoryssomus brevipilosus,Pseudoryssomus brevipilosus,species,10,0
+905618,905614,Pseudoryssomus brulei,Pseudoryssomus brulei,species,10,0
+905619,905614,Pseudoryssomus triangulus,Pseudoryssomus triangulus,species,10,0
+905620,905614,Pseudoryssomus crucifer,Pseudoryssomus crucifer,species,10,0
+905621,905614,Pseudoryssomus rufomarginatus,Pseudoryssomus rufomarginatus,species,10,0
+905625,905622,Oryssomus,Oryssomus,genus,20,0
+905626,905622,Anisorhizobius,Anisorhizobius,genus,20,0
+905627,905622,Rhizoryssomus,Rhizoryssomus,genus,20,0
+905628,905622,Neoryssomus,Neoryssomus,genus,20,0
+903619,640627,Tetrabrachys tauricus,Tetrabrachys tauricus,species,10,0
+1049086,176696,Nephus limonii,Nephus limonii,species,10,0
+1059376,221381,Hippodamia tredecimpunctata tredecimpunctata,Hippodamia tredecimpunctata tredecimpunctata,subspecies,5,0
+1046645,1046642,Heterocaria bella,Heterocaria bella,species,10,0
+1046646,1046642,Heterocaria cinerea,Heterocaria cinerea,species,10,0
+1046647,1046642,Heterocaria decemmaculata,Heterocaria decemmaculata,species,10,0
+1046649,1046642,Heterocaria funerea,Heterocaria funerea,species,10,0
+1046650,1046642,Heterocaria kaszabi,Heterocaria kaszabi,species,10,0
+1046651,1046642,Heterocaria papuana,Heterocaria papuana,species,10,0
+1046652,1046642,Heterocaria riedeli,Heterocaria riedeli,species,10,0
+1046653,1046642,Heterocaria samuelsoni,Heterocaria samuelsoni,species,10,0
+1046654,1046642,Heterocaria transversoguttata,Heterocaria transversoguttata,species,10,0
+1048079,132004,Scymnus silesiacus,Scymnus silesiacus,species,10,0
+1058289,123827,Cheilomenes lunata lunata,Cheilomenes lunata lunata,subspecies,5,0
+1058581,710697,Epilachna chinensis chinensis,Epilachna chinensis chinensis,subspecies,5,0
+1057517,397505,Stethorus griseus griseus,Stethorus griseus griseus,subspecies,5,0
+1058007,632638,Henosepilachna vigintioctomaculata vigintioctomaculata,Henosepilachna vigintioctomaculata vigintioctomaculata,subspecies,5,0
+407190,253034,Rhyzobius sedatus,Rhyzobius sedatus,species,10,0
+1082168,176696,Nephus ludyi,Nephus ludyi,species,10,0
+1082169,132004,Scymnus sacium,Scymnus sacium,species,10,0
+1082170,132004,Scymnus fraxini,Scymnus fraxini,species,10,0
+1082171,132004,Scymnus inderihensis,Scymnus inderihensis,species,10,0
+1085678,154560,Epilachna corniventris,Epilachna corniventris,species,10,0
+926558,790658,Zagreus modestus,Zagreus modestus,species,10,0
+668922,61791,Henosepilachna ardosiaca,Henosepilachna ardosiaca,species,10,0
+668923,61791,Henosepilachna arenaria,Henosepilachna arenaria,species,10,0
+668925,61791,Henosepilachna capensis,Henosepilachna capensis,species,10,0
+668926,61791,Henosepilachna chirindica,Henosepilachna chirindica,species,10,0
+668928,61791,Henosepilachna firma,Henosepilachna firma,species,10,0
+668929,61791,Henosepilachna lanceolata,Henosepilachna lanceolata,species,10,0
+668930,61791,Henosepilachna morosa,Henosepilachna morosa,species,10,0
+668931,61791,Henosepilachna natalensis,Henosepilachna natalensis,species,10,0
+668932,61791,Henosepilachna quadrioculata,Henosepilachna quadrioculata,species,10,0
+668933,61791,Henosepilachna tricolorata,Henosepilachna tricolorata,species,10,0
+640516,779240,Ruthmuelleria,Ruthmuelleria,genus,20,0
+640621,373667,Aulis,Aulis,genus,20,0
+640622,373667,Cranophorus,Cranophorus,genus,20,0
+640623,373667,Cyrtaulis,Cyrtaulis,genus,20,0
+640624,373667,Epipleuria,Epipleuria,genus,20,0
+640626,373667,Midus,Midus,genus,20,0
+640629,333796,Dysis,Dysis,genus,20,0
+659684,640622,Cranophorus biguttatus,Cranophorus biguttatus,species,10,0
+659685,640622,Cranophorus endroedyi,Cranophorus endroedyi,species,10,0
+659686,640622,Cranophorus guttatus,Cranophorus guttatus,species,10,0
+659687,640622,Cranophorus hieroglyphicus,Cranophorus hieroglyphicus,species,10,0
+659688,640622,Cranophorus longemaculatus,Cranophorus longemaculatus,species,10,0
+659689,640622,Cranophorus magnomaculatus,Cranophorus magnomaculatus,species,10,0
+659690,640622,Cranophorus notatulus,Cranophorus notatulus,species,10,0
+659691,640622,Cranophorus parvulus,Cranophorus parvulus,species,10,0
+659692,640622,Cranophorus quadrinotatus,Cranophorus quadrinotatus,species,10,0
+659693,640622,Cranophorus scutigerellus,Cranophorus scutigerellus,species,10,0
+659694,640622,Cranophorus spornrafti,Cranophorus spornrafti,species,10,0
+659695,640622,Cranophorus trapezium,Cranophorus trapezium,species,10,0
+659696,640622,Cranophorus varius,Cranophorus varius,species,10,0
+660946,640623,Cyrtaulis aumonti,Cyrtaulis aumonti,species,10,0
+660947,640623,Cyrtaulis martini,Cyrtaulis martini,species,10,0
+661428,482446,Declivitata boothi,Declivitata boothi,species,10,0
+661430,482446,Declivitata inclusa,Declivitata inclusa,species,10,0
+661431,482446,Declivitata larvalis,Declivitata larvalis,species,10,0
+661432,482446,Declivitata uncifera,Declivitata uncifera,species,10,0
+1233014,132004,Neopullus,Neopullus,subgenus,15,0
+670431,133139,Hyperaspis alia,Hyperaspis alia,species,10,0
+670432,133139,Hyperaspis capeneri,Hyperaspis capeneri,species,10,0
+670433,133139,Hyperaspis capriviensis,Hyperaspis capriviensis,species,10,0
+670434,133139,Hyperaspis chagrinatus,Hyperaspis chagrinatus,species,10,0
+670435,133139,Hyperaspis congoana,Hyperaspis congoana,species,10,0
+670436,133139,Hyperaspis delicatula,Hyperaspis delicatula,species,10,0
+670437,133139,Hyperaspis deliciola,Hyperaspis deliciola,species,10,0
+670438,133139,Hyperaspis despecta,Hyperaspis despecta,species,10,0
+670439,133139,Hyperaspis discomaculata,Hyperaspis discomaculata,species,10,0
+670440,133139,Hyperaspis discors,Hyperaspis discors,species,10,0
+670441,133139,Hyperaspis felixi,Hyperaspis felixi,species,10,0
+670442,133139,Hyperaspis humerosignata,Hyperaspis humerosignata,species,10,0
+670443,133139,Hyperaspis kochi,Hyperaspis kochi,species,10,0
+670445,133139,Hyperaspis multicolor,Hyperaspis multicolor,species,10,0
+670446,133139,Hyperaspis namibiensis,Hyperaspis namibiensis,species,10,0
+670447,133139,Hyperaspis natalensis,Hyperaspis natalensis,species,10,0
+670448,133139,Hyperaspis neseri,Hyperaspis neseri,species,10,0
+670449,133139,Hyperaspis newcombi,Hyperaspis newcombi,species,10,0
+670450,133139,Hyperaspis popei,Hyperaspis popei,species,10,0
+670451,133139,Hyperaspis procera,Hyperaspis procera,species,10,0
+670452,133139,Hyperaspis quadrilla,Hyperaspis quadrilla,species,10,0
+670453,133139,Hyperaspis sericea,Hyperaspis sericea,species,10,0
+670454,697433,Hyperaspis sjoestedti australis,Hyperaspis sjoestedti australis,subspecies,5,0
+670455,133139,Hyperaspis striata,Hyperaspis striata,species,10,0
+1310343,1310341,Sphaeroplotina hainanensis,Sphaeroplotina hainanensis,species,10,0
+1236500,475796,Sasajiscymnus quinquepunctatus,Sasajiscymnus quinquepunctatus,species,10,0
+1236501,68761,Chilocorus chalybeatus,Chilocorus chalybeatus,species,10,0
+1236502,68761,Chilocorus alishanus,Chilocorus alishanus,species,10,0
+1236503,475796,Sasajiscymnus lamellatus,Sasajiscymnus lamellatus,species,10,0
+1236504,475796,Sasajiscymnus ohtai,Sasajiscymnus ohtai,species,10,0
+1236505,475796,Sasajiscymnus amplus,Sasajiscymnus amplus,species,10,0
+1236506,475796,Sasajiscymnus curvatus,Sasajiscymnus curvatus,species,10,0
+1236507,68761,Chilocorus chinensis,Chilocorus chinensis,species,10,0
+1236508,68761,Chilocorus amamensis,Chilocorus amamensis,species,10,0
+1236509,68761,Chilocorus bijugus,Chilocorus bijugus,species,10,0
+1236510,68761,Chilocorus braeti,Chilocorus braeti,species,10,0
+1236511,68761,Chilocorus hupehanus,Chilocorus hupehanus,species,10,0
+1236514,68761,Chilocorus geminus,Chilocorus geminus,species,10,0
+1236515,68761,Chilocorus esakii,Chilocorus esakii,species,10,0
+1236516,68761,Chilocorus matsumurai,Chilocorus matsumurai,species,10,0
+1236517,68761,Chilocorus ishigakensis,Chilocorus ishigakensis,species,10,0
+1236518,68761,Chilocorus kirgisicus,Chilocorus kirgisicus,species,10,0
+1236519,68761,Chilocorus rufitarsis,Chilocorus rufitarsis,species,10,0
+1236521,68761,Chilocorus takara,Chilocorus takara,species,10,0
+1236522,243969,Exochomus bifasciatus,Exochomus bifasciatus,species,10,0
+1236523,68761,Chilocorus yunlongensis,Chilocorus yunlongensis,species,10,0
+1236524,373659,Chujochilus,Chujochilus,genus,20,0
+1236525,1236524,Chujochilus isensis,Chujochilus isensis,species,10,0
+1236526,243969,Exochomus cedri,Exochomus cedri,species,10,0
+666260,243969,Exochomus difficilis,Exochomus difficilis,species,10,0
+666261,243969,Exochomus flaviventris,Cassava Mealybug Predator,species,10,0
+666262,243969,Exochomus haemorrhoidalis,Exochomus haemorrhoidalis,species,10,0
+666263,697265,Exochomus troberti concavus,Exochomus troberti concavus,subspecies,5,0
+666264,243969,Exochomus ventralis,Exochomus ventralis,species,10,0
+1237118,132004,Scymnus doriai,Scymnus doriai,species,10,0
+1234513,56735,Oenopia diabolica,Oenopia diabolica,species,10,0
+1234515,56735,Oenopia dracoguttata,Oenopia dracoguttata,species,10,0
+1234517,56735,Oenopia sexmaculata,Oenopia sexmaculata,species,10,0
+1234520,56735,Oenopia yunlongensis,Oenopia yunlongensis,species,10,0
+1234530,337902,Phrynocaria eberti,Phrynocaria eberti,species,10,0
+1234532,337902,Phrynocaria nigrilimbata,Phrynocaria nigrilimbata,species,10,0
+663379,640629,Dysis biguttata,Dysis biguttata,species,10,0
+663380,640629,Dysis decempunctata,Dysis decempunctata,species,10,0
+663381,640629,Dysis forsteri,Dysis forsteri,species,10,0
+663382,640629,Dysis quadrilineata,Dysis quadrilineata,species,10,0
+664519,154560,Epilachna auricoma,Epilachna auricoma,species,10,0
+664520,154560,Epilachna bimaculicollis,Epilachna bimaculicollis,species,10,0
+664521,154560,Epilachna discrepens,Epilachna discrepens,species,10,0
+664522,154560,Epilachna dufourii,Epilachna dufourii,species,10,0
+664523,154560,Epilachna duodecimpustulosa,Epilachna duodecimpustulosa,species,10,0
+664524,154560,Epilachna duvivieri,Epilachna duvivieri,species,10,0
+664525,154560,Epilachna linnaei,Epilachna linnaei,species,10,0
+664526,154560,Epilachna lothi,Epilachna lothi,species,10,0
+664527,154560,Epilachna lupina,Epilachna lupina,species,10,0
+664528,154560,Epilachna nylanderi,Epilachna nylanderi,species,10,0
+664529,154560,Epilachna pondoensis,Epilachna pondoensis,species,10,0
+664530,154560,Epilachna reticulipennis,Epilachna reticulipennis,species,10,0
+664531,154560,Epilachna schoenherri,Epilachna schoenherri,species,10,0
+664532,154560,Epilachna smithi,Epilachna smithi,species,10,0
+664533,154560,Epilachna tibialis,Epilachna tibialis,species,10,0
+664534,154560,Epilachna trochula,Epilachna trochula,species,10,0
+664536,154560,Epilachna vigintipunctata,Epilachna vigintipunctata,species,10,0
+664537,154560,Epilachna zetterstedtii,Epilachna zetterstedtii,species,10,0
+664585,640624,Epipleuria caputabdita,Epipleuria caputabdita,species,10,0
+664586,640624,Epipleuria endroedyi,Epipleuria endroedyi,species,10,0
+664587,640624,Epipleuria epipleuralis,Epipleuria epipleuralis,species,10,0
+664588,640624,Epipleuria globosa,Epipleuria globosa,species,10,0
+664589,640624,Epipleuria gussmannae,Epipleuria gussmannae,species,10,0
+664590,640624,Epipleuria hirsutula,Epipleuria hirsutula,species,10,0
+664591,640624,Epipleuria hirta,Epipleuria hirta,species,10,0
+664592,640624,Epipleuria inexspectata,Epipleuria inexspectata,species,10,0
+664593,640624,Epipleuria katbergensis,Epipleuria katbergensis,species,10,0
+664594,640624,Epipleuria lapidaria,Epipleuria lapidaria,species,10,0
+664595,640624,Epipleuria longissima,Epipleuria longissima,species,10,0
+664596,640624,Epipleuria namaquaensis,Epipleuria namaquaensis,species,10,0
+664597,640624,Epipleuria natalensis,Epipleuria natalensis,species,10,0
+664598,640624,Epipleuria parcepunctata,Epipleuria parcepunctata,species,10,0
+664599,640624,Epipleuria parva,Epipleuria parva,species,10,0
+664600,640624,Epipleuria popei,Epipleuria popei,species,10,0
+664601,640624,Epipleuria punctillum,Epipleuria punctillum,species,10,0
+664602,640624,Epipleuria rufosuturalis,Epipleuria rufosuturalis,species,10,0
+664603,640624,Epipleuria rugata,Epipleuria rugata,species,10,0
+664604,640624,Epipleuria ruthmuellerae,Epipleuria ruthmuellerae,species,10,0
+664605,640624,Epipleuria saxicola,Epipleuria saxicola,species,10,0
+664606,640624,Epipleuria trianguliloba,Epipleuria trianguliloba,species,10,0
+664607,640624,Epipleuria ventricosa,Epipleuria ventricosa,species,10,0
+1235323,176696,Nephus tristiculus,Nephus tristiculus,species,10,0
+1235324,176696,Nephus anomus,Nephus anomus,species,10,0
+1237565,893283,Cyrea pearl,Cyrea pearl,species,10,0
+668360,48487,Harmonia pardalina,Harmonia pardalina,species,10,0
+662386,173808,Diomus rhodesianus,Diomus rhodesianus,species,10,0
+1303085,1303084,Erythroneda rubida,Erythroneda rubida,species,10,0
+677946,176696,Nephus ancoralis,Nephus ancoralis,species,10,0
+677947,176696,Nephus angustus,Nephus angustus,species,10,0
+677948,176696,Nephus basimaculatus,Nephus basimaculatus,species,10,0
+677949,176696,Nephus brandbergensis,Nephus brandbergensis,species,10,0
+677950,176696,Nephus defluentus,Nephus defluentus,species,10,0
+677951,176696,Nephus derroni,Nephus derroni,species,10,0
+677952,176696,Nephus directotrichus,Nephus directotrichus,species,10,0
+677953,176696,Nephus kamburovi,Nephus kamburovi,species,10,0
+677954,176696,Nephus macer,Nephus macer,species,10,0
+677955,176696,Nephus ocellatus,Nephus ocellatus,species,10,0
+677956,176696,Nephus okahandjensis,Nephus okahandjensis,species,10,0
+677957,176696,Nephus pajori,Nephus pajori,species,10,0
+677958,176696,Nephus posticesignatus,Nephus posticesignatus,species,10,0
+677959,176696,Nephus roberi,Nephus roberi,species,10,0
+677960,176696,Nephus rotundatus,Nephus rotundatus,species,10,0
+677961,176696,Nephus rudepunctatus,Nephus rudepunctatus,species,10,0
+677962,176696,Nephus transvaalensis,Nephus transvaalensis,species,10,0
+677963,176696,Nephus vantonderae,Nephus vantonderae,species,10,0
+677964,176696,Nephus voeltzkowi,Nephus voeltzkowi,species,10,0
+677965,176696,Nephus weyrichi,Nephus weyrichi,species,10,0
+1340125,1339953,Mimoscymnus decorus,Mimoscymnus decorus,species,10,0
+1340126,1339953,Mimoscymnus gonzalezi,Mimoscymnus gonzalezi,species,10,0
+1340127,1339953,Mimoscymnus islanegrensis,Mimoscymnus islanegrensis,species,10,0
+1340128,1339953,Mimoscymnus laticlavus,Mimoscymnus laticlavus,species,10,0
+1340129,1339953,Mimoscymnus praeclarus,Mimoscymnus praeclarus,species,10,0
+1340130,373667,Nothocolus,Nothocolus,genus,20,0
+1340131,1340130,Nothocolus biimpressus,Nothocolus biimpressus,species,10,0
+1340132,1340130,Nothocolus germaini,Nothocolus germaini,species,10,0
+1340133,1340130,Nothocolus indefinitus,Nothocolus indefinitus,species,10,0
+1340134,1340130,Nothocolus omissus,Nothocolus omissus,species,10,0
+1340135,1340130,Nothocolus pilulus,Nothocolus pilulus,species,10,0
+1340136,1340130,Nothocolus porteri,Nothocolus porteri,species,10,0
+1340138,1340130,Nothocolus sicardi,Nothocolus sicardi,species,10,0
+690048,640756,Solanophila canina,Solanophila canina,species,10,0
+690050,640756,Solanophila infirma,Solanophila infirma,species,10,0
+1255753,52877,Halyzia dejavu,Halyzia dejavu,species,10,0
+549110,373659,Renius,Renius,genus,20,0
+550359,475796,Sasajiscymnus perpusillus,Sasajiscymnus perpusillus,species,10,0
+553452,553450,Cynegetis chinensis,Cynegetis chinensis,species,10,0
+1279769,54467,Psyllobora picturata,Psyllobora picturata,species,10,0
+551973,211369,Stethorus minutalus,Stethorus minutalus,species,10,0
+680264,641306,Ortalia basinigra,Ortalia basinigra,species,10,0
+680265,641306,Ortalia brunneocincta,Ortalia brunneocincta,species,10,0
+680267,641306,Ortalia ovulum,Ortalia ovulum,species,10,0
+680271,641306,Ortalia sjoestedti,Ortalia sjoestedti,species,10,0
+680272,641306,Ortalia x-signata,Ortalia x-signata,species,10,0
+681239,641161,Paracoelopterus inconspicuus,Paracoelopterus inconspicuus,species,10,0
+1249425,1249424,Stictobura pallideguttata,Stictobura pallideguttata,species,10,0
+1249426,1249424,Stictobura melanaria,Stictobura melanaria,species,10,0
+1249428,1249424,Stictobura pallidiguttata,Stictobura pallidiguttata,species,10,0
+1253412,174289,Coccidula litophiloides,Coccidula litophiloides,species,10,0
+1253413,174289,Coccidula reitteri,Coccidula reitteri,species,10,0
+687833,253034,Rhyzobius apicesignatus,Rhyzobius apicesignatus,species,10,0
+687834,253034,Rhyzobius bicolor,Rhyzobius bicolor,species,10,0
+687835,253034,Rhyzobius burmeisteri,Rhyzobius burmeisteri,species,10,0
+687836,253034,Rhyzobius decoratus,Rhyzobius decoratus,species,10,0
+687837,253034,Rhyzobius decussatolobatus,Rhyzobius decussatolobatus,species,10,0
+687838,253034,Rhyzobius densepunctatus,Rhyzobius densepunctatus,species,10,0
+687839,253034,Rhyzobius javeti,Rhyzobius javeti,species,10,0
+687840,253034,Rhyzobius klapperichi,Rhyzobius klapperichi,species,10,0
+687841,253034,Rhyzobius nigromarginatus,Rhyzobius nigromarginatus,species,10,0
+687842,253034,Rhyzobius quadrifenestratus,Rhyzobius quadrifenestratus,species,10,0
+687843,253034,Rhyzobius rotundatus,Rhyzobius rotundatus,species,10,0
+687845,253034,Rhyzobius stillatus,Rhyzobius stillatus,species,10,0
+687846,253034,Rhyzobius thoracicus,Rhyzobius thoracicus,species,10,0
+688017,640516,Ruthmuelleria grootdrifensis,Ruthmuelleria grootdrifensis,species,10,0
+689146,641162,Scymnomorphus punctatissimus,Scymnomorphus punctatissimus,species,10,0
+683058,641516,Pharopsis subglaber,Pharopsis subglaber,species,10,0
+683059,641516,Pharopsis tonderae,Pharopsis tonderae,species,10,0
+683060,473863,Pharoscymnus exiguus,Pharoscymnus exiguus,species,10,0
+683061,473863,Pharoscymnus inaequalis,Pharoscymnus inaequalis,species,10,0
+683062,473863,Pharoscymnus kuisebensis,Pharoscymnus kuisebensis,species,10,0
+683063,473863,Pharoscymnus sexguttatus,Pharoscymnus sexguttatus,species,10,0
+683064,473863,Pharoscymnus tomeensis,Pharoscymnus tomeensis,species,10,0
+683065,473863,Pharoscymnus uncosiphonatus,Pharoscymnus uncosiphonatus,species,10,0
+675625,334606,Micraspis aethiops,Micraspis aethiops,species,10,0
+675626,334606,Micraspis comma,Micraspis comma,species,10,0
+675627,334606,Micraspis trivittata,Micraspis trivittata,species,10,0
+675628,334606,Micraspis vandenbergae,Micraspis vandenbergae,species,10,0
+1242237,701664,Oenopia lyncea agnata,Oenopia lyncea agnata,subspecies,5,0
+1242239,701664,Oenopia lyncea lyncea,Oenopia lyncea lyncea,subspecies,5,0
+673585,641515,Lotis boothi,Lotis boothi,species,10,0
+673587,641515,Lotis densepunctata,Lotis densepunctata,species,10,0
+673588,641515,Lotis discomaculata,Lotis discomaculata,species,10,0
+673589,641515,Lotis distincta,Lotis distincta,species,10,0
+673590,641515,Lotis distinctepunctata,Lotis distinctepunctata,species,10,0
+673591,641515,Lotis fissilobata,Lotis fissilobata,species,10,0
+673592,641515,Lotis flava,Lotis flava,species,10,0
+673593,641515,Lotis goellnerae,Lotis goellnerae,species,10,0
+673594,641515,Lotis guttula,Lotis guttula,species,10,0
+673595,641515,Lotis longilobata,Lotis longilobata,species,10,0
+673596,641515,Lotis lucens,Lotis lucens,species,10,0
+673597,641515,Lotis manipulosa,Lotis manipulosa,species,10,0
+673598,641515,Lotis neglecta,Lotis neglecta,species,10,0
+673599,641515,Lotis nigerrima,Lotis nigerrima,species,10,0
+673600,641515,Lotis nigritula,Lotis nigritula,species,10,0
+673601,697535,Lotis nigrocincta macromaculata,Lotis nigrocincta macromaculata,subspecies,5,0
+673602,641515,Lotis oberprieleri,Lotis oberprieleri,species,10,0
+673603,697536,Lotis ovata ovata,Lotis ovata ovata,subspecies,5,0
+673604,697536,Lotis ovata posticesignata,Lotis ovata posticesignata,subspecies,5,0
+673605,641515,Lotis piceata,Lotis piceata,species,10,0
+673606,641515,Lotis procera,Lotis procera,species,10,0
+673607,641515,Lotis pumila,Lotis pumila,species,10,0
+673608,641515,Lotis quadrivulnerata,Lotis quadrivulnerata,species,10,0
+673609,641515,Lotis spornrafti,Lotis spornrafti,species,10,0
+673610,641515,Lotis stigmatica,Lotis stigmatica,species,10,0
+1234512,56735,Oenopia cashmirense,Oenopia cashmirense,species,10,0
+1234514,56735,Oenopia dequenensis,Oenopia dequenensis,species,10,0
+1234516,56735,Oenopia emmerichi,Oenopia emmerichi,species,10,0
+1234518,56735,Oenopia hiekei,Oenopia hiekei,species,10,0
+1234519,56735,Oenopia smetanai,Oenopia smetanai,species,10,0
+1234521,56735,Oenopia montana,Oenopia montana,species,10,0
+1234526,56735,Oenopia zonata,Oenopia zonata,species,10,0
+1234533,337902,Phrynocaria decemguttata,Phrynocaria decemguttata,species,10,0
+673584,641515,Lotis apicemaculata,Lotis apicemaculata,species,10,0
+673586,641515,Lotis brunneomarginata,Lotis brunneomarginata,species,10,0
+655741,641159,Cathedrana natalensis,Cathedrana natalensis,species,10,0
+507872,176696,Bipunctatus,Bipunctatus,subgenus,15,0
+647527,511713,Afidenta dahlbomi,Afidenta dahlbomi,species,10,0
+647529,511713,Afidenta marginata,Afidenta marginata,species,10,0
+647530,511713,Afidenta tetrastigma,Afidenta tetrastigma,species,10,0
+647531,471619,Afidentula capicola,Afidentula capicola,species,10,0
+656833,123830,Cheilomenes geisha,Cheilomenes geisha,species,10,0
+656834,123830,Cheilomenes pretiosa,Cheilomenes pretiosa,species,10,0
+657072,68761,Chilocorus angolensis,Chilocorus angolensis,species,10,0
+657073,68761,Chilocorus calvus,Chilocorus calvus,species,10,0
+657074,68761,Chilocorus cruentatus,Chilocorus cruentatus,species,10,0
+657075,68761,Chilocorus dohrni,Chilocorus dohrni,species,10,0
+657076,68761,Chilocorus haematocephalus,Chilocorus haematocephalus,species,10,0
+657077,68761,Chilocorus marshalli,Chilocorus marshalli,species,10,0
+657078,68761,Chilocorus quadriguttatus,Chilocorus quadriguttatus,species,10,0
+657079,68761,Chilocorus reinecki,Chilocorus reinecki,species,10,0
+657080,68761,Chilocorus sexguttatus,Chilocorus sexguttatus,species,10,0
+657081,68761,Chilocorus simoni,Chilocorus simoni,species,10,0
+657083,68761,Chilocorus wahlbergi,Chilocorus wahlbergi,species,10,0
+657318,491987,Chnootriba annulata,Chnootriba annulata,species,10,0
+657319,491987,Chnootriba pajori,Chnootriba pajori,species,10,0
+653546,641514,Boschalis hamatosiphonata,Boschalis hamatosiphonata,species,10,0
+653547,641514,Boschalis nigra,Boschalis nigra,species,10,0
+511801,173976,Delphastus quinculus,Delphastus quinculus,species,10,0
+1227078,641236,Novius niger,Novius niger,species,10,0
+654416,464388,Brumus fulviventris,Brumus fulviventris,species,10,0
+654417,464388,Brumus nigrifrons,Brumus nigrifrons,species,10,0
+654418,464388,Brumus trivittatus,Brumus trivittatus,species,10,0
+640757,373697,Tropha,Tropha,genus,20,0
+641159,475793,Cathedrana,Cathedrana,genus,20,0
+641160,475793,Microfreudea,Microfreudea,genus,20,0
+641161,475793,Paracoelopterus,Paracoelopterus,genus,20,0
+641172,738972,Mimolithophilus,Mimolithophilus,genus,20,0
+641514,779237,Boschalis,Boschalis,genus,20,0
+641516,473861,Pharopsis,Pharopsis,genus,20,0
+641517,473861,Trimallena,Trimallena,genus,20,0
+652161,640621,Aulis annexa,Aulis annexa,species,10,0
+652162,640621,Aulis foedata,Aulis foedata,species,10,0
+652163,640621,Aulis gorhami,Aulis gorhami,species,10,0
+652164,640621,Aulis michaelsoni,Aulis michaelsoni,species,10,0
+652165,640621,Aulis namaquae,Aulis namaquae,species,10,0
+652166,640621,Aulis nitis,Aulis nitis,species,10,0
+652167,640621,Aulis plantaris,Aulis plantaris,species,10,0
+652168,640621,Aulis sharpi,Aulis sharpi,species,10,0
+658554,333708,Coelophora impunctata,Coelophora impunctata,species,10,0
+658555,333708,Coelophora machadoi,Coelophora machadoi,species,10,0
+649775,640628,Anisolemnia distigma,Anisolemnia distigma,species,10,0
+649776,640628,Anisolemnia welwitschi,Anisolemnia welwitschi,species,10,0
+1287698,1287697,Cranoryssus variegatus,Cranoryssus variegatus,species,10,0
+560854,475105,Rodatus major,Rodatus major,species,10,0
+1369931,54467,Psyllobora camargoi,Psyllobora camargoi,species,10,0
+1369932,54467,Psyllobora plaumanni,Psyllobora plaumanni,species,10,0
+1369933,54467,Psyllobora consitoides,Psyllobora consitoides,species,10,0
+1369935,54467,Psyllobora constantini,Psyllobora constantini,species,10,0
+1369936,54467,Psyllobora equatoriana,Psyllobora equatoriana,species,10,0
+1369937,54467,Psyllobora gloriosa,Psyllobora gloriosa,species,10,0
+1369938,54467,Psyllobora huancayensis,Psyllobora huancayensis,species,10,0
+1369939,54467,Psyllobora impollutipenna,Psyllobora impollutipenna,species,10,0
+1369940,54467,Psyllobora peruana,Psyllobora peruana,species,10,0
+1369941,54467,Psyllobora punctella,Psyllobora punctella,species,10,0
+1369942,54467,Psyllobora consobrina,Psyllobora consobrina,species,10,0
+1369943,631924,Oxytella,Oxytella,genus,20,0
+1369944,1369943,Oxytella subcordata,Oxytella subcordata,species,10,0
+1369945,54467,Psyllobora amazonensis,Psyllobora amazonensis,species,10,0
+1369947,54467,Psyllobora bakewellii,Psyllobora bakewellii,species,10,0
+1369948,54467,Psyllobora balinti,Psyllobora balinti,species,10,0
+1369949,54467,Psyllobora batesi,Psyllobora batesi,species,10,0
+1369950,54467,Psyllobora calida,Psyllobora calida,species,10,0
+1369951,54467,Psyllobora confusa,Psyllobora confusa,species,10,0
+1369952,54467,Psyllobora consita,Psyllobora consita,species,10,0
+1369953,54467,Psyllobora delicata,Psyllobora delicata,species,10,0
+1369954,54467,Psyllobora divisa,Psyllobora divisa,species,10,0
+1369955,54467,Psyllobora egae,Psyllobora egae,species,10,0
+1369956,54467,Psyllobora foliacea,Psyllobora foliacea,species,10,0
+1369957,54467,Psyllobora meticulosa,Psyllobora meticulosa,species,10,0
+1369958,54467,Psyllobora mocquerysii,Psyllobora mocquerysii,species,10,0
+1369959,54467,Psyllobora oxygnatha,Psyllobora oxygnatha,species,10,0
+1369960,54467,Psyllobora sicardi,Psyllobora sicardi,species,10,0
+1369961,54467,Psyllobora sosia,Psyllobora sosia,species,10,0
+1369962,54467,Psyllobora germari,Psyllobora germari,species,10,0
+1369964,54467,Psyllobora lacteola,Psyllobora lacteola,species,10,0
+1369966,54467,Psyllobora boliviana,Psyllobora boliviana,species,10,0
+1369967,54467,Psyllobora configurans,Psyllobora configurans,species,10,0
+1369968,54467,Psyllobora drakei,Psyllobora drakei,species,10,0
+1262954,373667,Cycloscymnus,Cycloscymnus,genus,20,0
+1262955,1262954,Cycloscymnus minutus,Cycloscymnus minutus,species,10,0
+1262956,475794,Bucolellus,Bucolellus,genus,20,0
+1262957,1262956,Bucolellus ornatus,Bucolellus ornatus,species,10,0
+1263408,473863,Pharoscymnus horni,Pharoscymnus horni,species,10,0
+535807,173808,Diomus protus,Diomus protus,species,10,0
+692655,448032,Telsimia tetrasticta,Telsimia tetrasticta,species,10,0
+692926,640627,Tetrabrachys ovalis,Tetrabrachys ovalis,species,10,0
+1269774,1269768,Alloneda dentiformis,Alloneda dentiformis,species,10,0
+1266423,244626,Halmus coelestris,Halmus coelestris,species,10,0
+1266424,244626,Halmus cupripennis,Halmus cupripennis,species,10,0
+1266425,244626,Halmus evelynensis,Halmus evelynensis,species,10,0
+1266426,244626,Halmus viridis,Halmus viridis,species,10,0
+1266464,779237,Sasajiella,Sasajiella,genus,20,0
+1266465,1266464,Sasajiella amamiana,Sasajiella amamiana,species,10,0
+543687,543686,Neocalvia duodecimguttata,Neocalvia duodecimguttata,species,10,0
+544857,544860,Amida nigropectoralis,Amida nigropectoralis,species,10,0
+1259145,337902,Phrynocaria perfida,Phrynocaria perfida,species,10,0
+1262784,173264,Brumoides lineatus,Brumoides lineatus,species,10,0
+1270569,475796,Sasajiscymnus fuscus,Sasajiscymnus fuscus,species,10,0
+1270570,475796,Sasajiscymnus seboshii,Sasajiscymnus seboshii,species,10,0
+1270571,475796,Sasajiscymnus changi,Sasajiscymnus changi,species,10,0
+1270572,475796,Sasajiscymnus anmashanus,Sasajiscymnus anmashanus,species,10,0
+1270573,475796,Sasajiscymnus lewisi,Sasajiscymnus lewisi,species,10,0
+1337101,1337100,Afrocleta distincta,Afrocleta distincta,species,10,0
+1337102,1337100,Afrocleta sahlbergi,Afrocleta sahlbergi,species,10,0
+1337105,1337100,Afrocleta perpusillaria,Afrocleta perpusillaria,species,10,0
+697265,243969,Exochomus troberti,Exochomus troberti,species,10,0
+697433,133139,Hyperaspis sjoestedti,Hyperaspis sjoestedti,species,10,0
+697506,641306,Ortalia punctata,Ortalia punctata,species,10,0
+697535,641515,Lotis nigrocincta,Lotis nigrocincta,species,10,0
+697536,641515,Lotis ovata,Lotis ovata,species,10,0
+1261611,52507,Adalia tetraspilota,Adalia tetraspilota,species,10,0
+1374565,1038541,Tiphysa,Tiphysa,genus,20,0
+1374566,1038541,Cleothera,Cleothera,genus,20,0
+1372120,1372119,Ceratomegilla decimguttata,Ceratomegilla decimguttata,species,10,0
+1372124,1372119,Ceratomegilla heydeni,Ceratomegilla heydeni,species,10,0
+1372126,1372119,Ceratomegilla obenbergeri,Ceratomegilla obenbergeri,species,10,0
+1372127,1372119,Ceratomegilla potanini,Ceratomegilla potanini,species,10,0
+1372128,1372119,Ceratomegilla rickmersi,Ceratomegilla rickmersi,species,10,0
+1372130,1372129,Ceratomegilla rufocincta rufocincta,Ceratomegilla rufocincta rufocincta,subspecies,5,0
+1372131,1372129,Ceratomegilla rufocincta doderoi,Ceratomegilla rufocincta doderoi,subspecies,5,0
+1372132,1372119,Ceratomegilla schelkovnikovi,Ceratomegilla schelkovnikovi,species,10,0
+1372134,1372123,Ceratomegilla alpina alpina,Ceratomegilla alpina alpina,subspecies,5,0
+1372138,1372119,Ceratomegilla weisei,Ceratomegilla weisei,species,10,0
+1372141,216480,Ceratomegilla ulkei longula,Ceratomegilla ulkei longula,subspecies,5,0
+1372142,216480,Ceratomegilla ulkei kiritschenkoi,Ceratomegilla ulkei kiritschenkoi,subspecies,5,0
+1372143,216480,Ceratomegilla ulkei ulkei,Ceratomegilla ulkei ulkei,subspecies,5,0
+1372784,253034,Rhyzobius bipartitus,Rhyzobius bipartitus,species,10,0
+1293062,418187,Eriopis opposita,Eriopis opposita,species,10,0
+1293064,1293063,Parasidis porteri,Parasidis porteri,species,10,0
+1293065,1293063,Parasidis elguetai,Parasidis elguetai,species,10,0
+1293067,1293063,Parasidis barrigai,Parasidis barrigai,species,10,0
+1293068,1293063,Parasidis gordoni,Parasidis gordoni,species,10,0
+1293076,174270,Coccidophilus arrowi,Coccidophilus arrowi,species,10,0
+1293077,174270,Coccidophilus chilensis,Coccidophilus chilensis,species,10,0
+1293078,174270,Coccidophilus ferrui,Coccidophilus ferrui,species,10,0
+1293079,174270,Coccidophilus mendozai,Coccidophilus mendozai,species,10,0
+1293080,174270,Coccidophilus occidentalis,Coccidophilus occidentalis,species,10,0
+1293081,174270,Coccidophilus steparium,Coccidophilus steparium,species,10,0
+1293082,174270,Coccidophilus transandinus,Coccidophilus transandinus,species,10,0
+1293083,174270,Coccidophilus vandenbergae,Coccidophilus vandenbergae,species,10,0
+1293086,1293084,Hong slipinskii,Hong slipinskii,species,10,0
+1293087,1293084,Hong guerreroi,Hong guerreroi,species,10,0
+1293088,418187,Eriopis altiplanica,Eriopis altiplanica,species,10,0
+1293090,55490,Cycloneda limbicollis,Cycloneda limbicollis,species,10,0
+1293091,55490,Cycloneda lueri,Cycloneda lueri,species,10,0
+1293093,55490,Cycloneda lacrimosa,Cycloneda lacrimosa,species,10,0
+1293094,55490,Cycloneda disconsolata,Cycloneda disconsolata,species,10,0
+1293097,253035,Neda patula,Neda patula,species,10,0
+1293098,54467,Psyllobora lueri,Psyllobora lueri,species,10,0
+1293099,329604,Scymnobius aricaencis,Scymnobius aricaencis,species,10,0
+1293100,329604,Scymnobius triangularis,Scymnobius triangularis,species,10,0
+1293101,133139,Hyperaspis nana,Hyperaspis nana,species,10,0
+1293102,133139,Hyperaspis germaini,Hyperaspis germaini,species,10,0
+1293103,133139,Hyperaspis andina,Hyperaspis andina,species,10,0
+1293104,893283,Cyrea ruizi,Cyrea ruizi,species,10,0
+1293105,320468,Zilus inexpectatus,Zilus inexpectatus,species,10,0
+1293106,702608,Heterodiomus brethesi,Heterodiomus brethesi,species,10,0
+1293107,702608,Heterodiomus marchali,Heterodiomus marchali,species,10,0
+1293108,780193,Neorhizobius fuegensis,Neorhizobius fuegensis,species,10,0
+1293109,780193,Neorhizobius robustus,Neorhizobius robustus,species,10,0
+1293110,780193,Neorhizobius coquimbensis,Neorhizobius coquimbensis,species,10,0
+1293111,905628,Neoryssomus germaini,Neoryssomus germaini,species,10,0
+1293112,905628,Neoryssomus variabilis,Neoryssomus variabilis,species,10,0
+1293113,905626,Anisorhizobius funebris,Anisorhizobius funebris,species,10,0
+1293114,905627,Rhizoryssomus ruficollis,Rhizoryssomus ruficollis,species,10,0
+1377363,981287,Hinda decas,Hinda decas,species,10,0
+1377364,981287,Hinda decemverrucata,Hinda decemverrucata,species,10,0
+1377365,1374566,Cleothera buqueti,Cleothera buqueti,species,10,0
+1377366,892416,Serratitibia regularis,Serratitibia regularis,species,10,0
+1377367,892416,Serratitibia donna,Serratitibia donna,species,10,0
+1377369,892416,Serratitibia lividipes,Serratitibia lividipes,species,10,0
+1377370,892416,Serratitibia ruth,Serratitibia ruth,species,10,0
+1377371,892416,Serratitibia michelle,Serratitibia michelle,species,10,0
+1377372,892416,Serratitibia laura,Serratitibia laura,species,10,0
+1377373,892416,Serratitibia sarah,Serratitibia sarah,species,10,0
+1377374,892416,Serratitibia melissa,Serratitibia melissa,species,10,0
+1377375,892416,Serratitibia kimberly,Serratitibia kimberly,species,10,0
+1377376,892416,Serratitibia traili,Serratitibia traili,species,10,0
+1402844,154560,Epilachna formosana,Epilachna formosana,species,10,0
+1400149,244085,Cryptolaemus affinis,Cryptolaemus affinis,species,10,0
+1396173,154560,Epilachna obtusiforma,Epilachna obtusiforma,species,10,0
+1395360,176696,Nephus aguilari,Nephus aguilari,species,10,0
+1395361,51703,Coccinella venustula,Coccinella venustula,species,10,0
+1395362,133139,Hyperaspis algirica,Hyperaspis algirica,species,10,0
+1395363,133139,Hyperaspis camusi,Hyperaspis camusi,species,10,0
+1395364,133139,Hyperaspis dellabeffai,Hyperaspis dellabeffai,species,10,0
+1395365,133139,Hyperaspis duvergeri,Hyperaspis duvergeri,species,10,0
+1395366,133139,Hyperaspis hoffmanseggi,Hyperaspis hoffmanseggi,species,10,0
+1395367,133139,Hyperaspis illecebrosa,Hyperaspis illecebrosa,species,10,0
+1395368,133139,Hyperaspis peezi,Hyperaspis peezi,species,10,0
+1395369,133139,Hyperaspis stigma,Hyperaspis stigma,species,10,0
+1395370,133139,Hyperaspis voisini,Hyperaspis voisini,species,10,0
+1395371,176696,Nephus binotatus,Nephus binotatus,species,10,0
+1395372,176696,Nephus horioni,Nephus horioni,species,10,0
+1395373,176696,Nephus schatzmayri,Nephus schatzmayri,species,10,0
+1395374,176696,Nephus semirufus,Nephus semirufus,species,10,0
+1395375,253034,Rhyzobius bassus,Rhyzobius bassus,species,10,0
+1395376,132004,Scymnus araticus,Scymnus araticus,species,10,0
+1395377,132004,Scymnus damryi,Scymnus damryi,species,10,0
+1395378,132004,Scymnus doriae,Scymnus doriae,species,10,0
+1395379,132004,Scymnus fulvicollis,Scymnus fulvicollis,species,10,0
+1395380,132004,Scymnus laetificus,Scymnus laetificus,species,10,0
+1395381,132004,Scymnus magnomaculatus,Scymnus magnomaculatus,species,10,0
+1395383,132004,Scymnus pharaonis,Scymnus pharaonis,species,10,0
+1395384,132004,Scymnus suffrianioides,Scymnus suffrianioides,species,10,0
+696683,511713,Afidenta gyllenhali,Afidenta gyllenhali,species,10,0
+696979,640630,Xanthadalia effusa,Xanthadalia effusa,species,10,0
+675731,641160,Microfreudea cyclica,Microfreudea cyclica,species,10,0
+675907,640626,Midus quadristillatus,Midus quadristillatus,species,10,0
+675908,640626,Midus rouzeti,Midus rouzeti,species,10,0
+675975,641172,Mimolithophilus alobatus,Mimolithophilus alobatus,species,10,0
+675976,641172,Mimolithophilus brevicornis,Mimolithophilus brevicornis,species,10,0
+675977,641172,Mimolithophilus capensis,Mimolithophilus capensis,species,10,0
+675978,641172,Mimolithophilus carinatus,Mimolithophilus carinatus,species,10,0
+675979,641172,Mimolithophilus costatus,Mimolithophilus costatus,species,10,0
+675980,641172,Mimolithophilus deplanatus,Mimolithophilus deplanatus,species,10,0
+675981,641172,Mimolithophilus glabratus,Mimolithophilus glabratus,species,10,0
+675982,641172,Mimolithophilus saeptus,Mimolithophilus saeptus,species,10,0
+675983,641172,Mimolithophilus sericeus,Mimolithophilus sericeus,species,10,0
+675984,641172,Mimolithophilus whiteheadi,Mimolithophilus whiteheadi,species,10,0
+694295,641517,Trimallena cingulata,Trimallena cingulata,species,10,0
+694296,641517,Trimallena justitiae,Trimallena justitiae,species,10,0
+694297,641517,Trimallena separata,Trimallena separata,species,10,0
+694298,641517,Trimallena tristis,Trimallena tristis,species,10,0
+694299,641517,Trimallena undulata,Trimallena undulata,species,10,0
+694476,640757,Tropha variabilis,Tropha variabilis,species,10,0
+684225,343123,Platynaspis atrata,Platynaspis atrata,species,10,0
+684226,343123,Platynaspis litura,Platynaspis litura,species,10,0
+684227,343123,Platynaspis marginata,Platynaspis marginata,species,10,0
+684228,343123,Platynaspis silvestrii,Platynaspis silvestrii,species,10,0
+684229,343123,Platynaspis solieri,Platynaspis solieri,species,10,0
+684230,343123,Platynaspis vittiger,Platynaspis vittiger,species,10,0
+686598,54467,Psyllobora imbecilla,Psyllobora imbecilla,species,10,0
+686599,54467,Psyllobora nassata,Psyllobora nassata,species,10,0
+673993,640755,Mada polluta,Mada polluta,species,10,0
+1334322,173264,Brumoides nigrifrons,Brumoides nigrifrons,species,10,0
+131991,131990,Tytthaspis sedecimguttata,Tytthaspis sedecimguttata,species,10,0
+131992,131990,Tytthaspis trilineata,Tytthaspis trilineata,species,10,0
+133065,133066,Myzia oblongoguttata lignicolor,Myzia oblongoguttata lignicolor,form,5,0
+123828,123827,Cheilomenes lunata yemenensis,Cheilomenes lunata yemenensis,subspecies,5,0
+207645,207647,Illeis darbarii,Illeis darbarii,species,10,0
+207649,207647,Illeis flava,Illeis flava,species,10,0
+207650,207647,Illeis ranamese,Illeis ranamese,species,10,0
+320329,320476,Carinodulinka baja,Attenuate Lady Beetle,species,10,0
+320331,173264,Brumoides blumi,Brumoides blumi,species,10,0
+320334,320336,Blaisdelliana sexualis,Pitch Lady Beetle,species,10,0
+320336,475799,Blaisdelliana,Blaisdelliana,genus,20,0
+320337,320338,Cephaloscymnus occidentalis,Cephaloscymnus occidentalis,species,10,0
+320340,68761,Chilocorus fraternus,Chilocorus fraternus,species,10,0
+320342,173893,Didion longulum,Didion longulum,species,10,0
+320344,173808,Diomus taedatus,Diomus taedatus,species,10,0
+320345,173808,Diomus pumilio,Diomus pumilio,species,10,0
+320347,243969,Exochomus quadripustulus,Exochomus quadripustulus,species,10,0
+320351,320354,Gnathoweisea planiceps,Gnathoweisea planiceps,species,10,0
+320352,320354,Gnathoweisea hageni,Gnathoweisea hageni,species,10,0
+320356,177712,Hyperaspidius simulatus,Hyperaspidius simulatus,species,10,0
+320357,177712,Hyperaspidius ploribundus,Hyperaspidius ploribundus,species,10,0
+320359,177712,Hyperaspidius hardyi,Hyperaspidius hardyi,species,10,0
+320361,177712,Hyperaspidius arcuatus,Hyperaspidius arcuatus,species,10,0
+320362,177712,Hyperaspidius algodonus,Hyperaspidius algodonus,species,10,0
+320364,177712,Hyperaspidius tristis,Hyperaspidius tristis,species,10,0
+320365,177712,Hyperaspidius vittigera,Hyperaspidius vittigera,species,10,0
+320367,133139,Hyperaspis borealis,Hyperaspis borealis,species,10,0
+320369,133139,Hyperaspis arizonica,Hyperaspis arizonica,species,10,0
+320375,133139,Hyperaspis excelsa,Hyperaspis excelsa,species,10,0
+320377,133139,Hyperaspis leachi,Leach's Sigil Lady Beetle,species,10,0
+320380,133139,Hyperaspis longicoxitis,Hyperaspis longicoxitis,species,10,0
+320381,133139,Hyperaspis limbalis,Hyperaspis limbalis,species,10,0
+320382,133139,Hyperaspis nunenmacheri,Hyperaspis nunenmacheri,species,10,0
+320383,133139,Hyperaspis mckenziei,Hyperaspis mckenziei,species,10,0
+320384,133139,Hyperaspis pluto,Hyperaspis pluto,species,10,0
+320386,133139,Hyperaspis osculans,Hyperaspis osculans,species,10,0
+320387,133139,Hyperaspis oregona,Hyperaspis oregona,species,10,0
+320390,133139,Hyperaspis psyche,Hyperaspis psyche,species,10,0
+320396,133139,Hyperaspis spiculinota,Hyperaspis spiculinota,species,10,0
+320399,176983,Microweisea suturalis,Microweisea suturalis,species,10,0
+320400,176696,Nephus atramentarius,Nephus atramentarius,species,10,0
+320404,320407,Nipus occiduus,Nipus occiduus,species,10,0
+320405,320407,Nipus niger,Nipus niger,species,10,0
+320410,132004,Scymnus caurinus,Scymnus caurinus,species,10,0
+320411,132004,Scymnus calaveras,Scymnus calaveras,species,10,0
+320412,132004,Scymnus aridus,Scymnus aridus,species,10,0
+320414,132004,Scymnus apithanus,Scymnus apithanus,species,10,0
+320415,132004,Scymnus falli,Scymnus falli,species,10,0
+333789,333788,Hippodamia lunatomaculata dobzhanskyi,Northern Crescent Lady Beetle,subspecies,5,0
+337409,68761,Chilocorus tumidus,Chilocorus tumidus,species,10,0
+356423,51703,Coccinella arcula,Coccinella arcula,species,10,0
+320416,132004,Scymnus erythronotum,Scymnus erythronotum,species,10,0
+320417,132004,Scymnus elusivus,Scymnus elusivus,species,10,0
+320420,132004,Scymnus cockerelli,Scymnus cockerelli,species,10,0
+320421,132004,Scymnus luctuosus,Scymnus luctuosus,species,10,0
+320424,132004,Scymnus impletus,Scymnus impletus,species,10,0
+320425,132004,Scymnus humboldti,Scymnus humboldti,species,10,0
+320426,132004,Scymnus horni,Scymnus horni,species,10,0
+320427,132004,Scymnus hesperius,Scymnus hesperius,species,10,0
+320428,132004,Scymnus gilae,Scymnus gilae,species,10,0
+320430,132004,Scymnus nuttingi,Scymnus nuttingi,species,10,0
+320431,132004,Scymnus nevadensis,Scymnus nevadensis,species,10,0
+320433,132004,Scymnus mimoides,Scymnus mimoides,species,10,0
+320434,132004,Scymnus mendocino,Scymnus mendocino,species,10,0
+320435,132004,Scymnus martini,Scymnus martini,species,10,0
+320436,132004,Scymnus solidus,Scymnus solidus,species,10,0
+320437,132004,Scymnus postpictus,Scymnus postpictus,species,10,0
+320439,132004,Scymnus utahensis,Scymnus utahensis,species,10,0
+320440,132004,Scymnus tenebricus,Scymnus tenebricus,species,10,0
+320441,132004,Scymnus tahoensis,Scymnus tahoensis,species,10,0
+320442,132004,Scymnus weidti,Scymnus weidti,species,10,0
+320443,320448,Selvadius rectus,Selvadius rectus,species,10,0
+320444,320448,Selvadius megacephalus,Selvadius megacephalus,species,10,0
+320445,320448,Selvadius maderi,Selvadius maderi,species,10,0
+320446,132004,Scymnus wickhami,Scymnus wickhami,species,10,0
+320453,320479,Hyperaspis dissoluta nevadica,Hyperaspis dissoluta nevadica,subspecies,5,0
+320455,221377,Hippodamia moesta politissima,Hippodamia moesta politissima,subspecies,5,0
+320460,174270,Coccidophilus atronitens,Coccidophilus atronitens,species,10,0
+320462,217265,Coccinella hieroglyphica humboldtiensis,Coccinella hieroglyphica humboldtiensis,subspecies,5,0
+320465,320478,Coccinella prolongata sequoiae,Coccinella prolongata sequoiae,subspecies,5,0
+320466,320478,Coccinella prolongata prolongata,Coccinella prolongata prolongata,subspecies,5,0
+320467,320478,Coccinella prolongata bridwelli,Coccinella prolongata bridwelli,subspecies,5,0
+320474,320477,Hyperaspis senegalensis hottentota,Hyperaspis senegalensis hottentota,subspecies,5,0
+320476,473861,Carinodulinka,Carinodulinka,genus,20,0
+320477,133139,Hyperaspis senegalensis,Hyperaspis senegalensis,species,10,0
+329563,55490,Cycloneda galapagoensis,Cycloneda galapagoensis,species,10,0
+329564,176546,Olla hageni,Olla hageni,species,10,0
+329565,176546,Olla lacrimosa,Olla lacrimosa,species,10,0
+329566,173808,Diomus anthony,Diomus anthony,species,10,0
+329568,329604,Scymnobius scalesius,Scymnobius scalesius,species,10,0
+332457,325555,Myrrha anderssoni,Myrrha anderssoni,species,10,0
+332458,325555,Myrrha formosa,Myrrha formosa,species,10,0
+343128,343126,Hyperaspis reppensis quadrimaculata,Hyperaspis reppensis quadrimaculata,subspecies,5,0
+343146,343145,Nephus quadrimaculatus bucciarelli,Nephus quadrimaculatus bucciarelli,subspecies,5,0
+318481,51703,Coccinella septemdecimsignata,Coccinella septemdecimsignata,species,10,0
+318485,51702,Coccinella septempunctata brucki,Coccinella septempunctata brucki,subspecies,5,0
+1005170,333708,Coelophora quadrivittata,Coelophora quadrivittata,species,10,0
+218429,173893,Didion nanum,Didion nanum,species,10,0
+217261,174270,Coccidophilus marginatus,Coccidophilus marginatus,species,10,0
+215334,173300,Brachiacantha illustris,Brachiacantha illustris,species,10,0
+215337,173300,Brachiacantha rotunda,Brachiacantha rotunda,species,10,0
+173810,173808,Diomus abacum,Diomus abacum,species,10,0
+173811,173808,Diomus abdon,Diomus abdon,species,10,0
+173812,173808,Diomus achilleus,Diomus achilleus,species,10,0
+173813,173808,Diomus adrian,Diomus adrian,species,10,0
+173814,173808,Diomus agapitus,Diomus agapitus,species,10,0
+173815,173808,Diomus agatha,Diomus agatha,species,10,0
+173816,173808,Diomus agnes,Diomus agnes,species,10,0
+221984,177712,Hyperaspidius insignis,Hyperaspidius insignis,species,10,0
+221990,133139,Hyperaspis fimbriolata,Hyperaspis fimbriolata,species,10,0
+221991,133139,Hyperaspis moerens,Hyperaspis moerens,species,10,0
+230727,132004,Scymnus americanus,Scymnus americanus,species,10,0
+230731,132004,Scymnus compar,Scymnus compar,species,10,0
+230732,132004,Scymnus fenderi,Scymnus fenderi,species,10,0
+230734,132004,Scymnus iowensis,Scymnus iowensis,species,10,0
+230736,132004,Scymnus lacustris,Scymnus lacustris,species,10,0
+230738,132004,Scymnus puncticollis,Scymnus puncticollis,species,10,0
+230743,132004,Scymnus uncus,Scymnus uncus,species,10,0
+271573,133139,Hyperaspis wicrihami,Hyperaspis wicrihami,species,10,0
+225806,176696,Nephus gordoni,Nephus gordoni,species,10,0
+225807,176696,Nephus intrusus,Nephus intrusus,species,10,0
+225808,176696,Nephus ornatus,Nephus ornatus,species,10,0
+309018,132004,Scymnus nugator,Scymnus nugator,species,10,0
+309020,132004,Scymnus huachuca,Scymnus huachuca,species,10,0
+309686,51703,Coccinella emarginata,Coccinella emarginata,species,10,0
+606181,606184,Tenuisvalvae caucaensis,Tenuisvalvae caucaensis,species,10,0
+606183,606184,Tenuisvalvae gnoma,Tenuisvalvae gnoma,species,10,0
+1412254,61791,Henosepilachna signatipennis,Henosepilachna signatipennis,species,10,0
+1412175,884219,Pentilia bernadette,Pentilia bernadette,species,10,0
+1412176,884219,Pentilia traci,Pentilia traci,species,10,0
+1412177,884219,Pentilia nichole,Pentilia nichole,species,10,0
+1412178,884219,Pentilia jody,Pentilia jody,species,10,0
+1412193,884219,Pentilia dianna,Pentilia dianna,species,10,0
+1412194,884219,Pentilia paulette,Pentilia paulette,species,10,0
+1412182,884219,Pentilia mable,Pentilia mable,species,10,0
+1412183,884219,Pentilia ernestine,Pentilia ernestine,species,10,0
+1412174,884219,Pentilia sadie,Pentilia sadie,species,10,0
+1412190,884219,Pentilia kari,Pentilia kari,species,10,0
+1412188,884219,Pentilia egena,Pentilia egena,species,10,0
+1412189,884219,Pentilia nadine,Pentilia nadine,species,10,0
+1412179,884219,Pentilia kendra,Pentilia kendra,species,10,0
+1412184,884219,Pentilia muriel,Pentilia muriel,species,10,0
+1412180,884219,Pentilia jasmine,Pentilia jasmine,species,10,0
+1412185,884219,Pentilia elena,Pentilia elena,species,10,0
+1412186,884219,Pentilia krystal,Pentilia krystal,species,10,0
+1412181,884219,Pentilia rachael,Pentilia rachael,species,10,0
+1412187,884219,Pentilia lora,Pentilia lora,species,10,0
+1412192,884219,Pentilia estelle,Pentilia estelle,species,10,0
+1412191,884219,Pentilia insidiosa,Pentilia insidiosa,species,10,0
+1414559,368386,Sticholotis dohrni,Sticholotis dohrni,species,10,0
+1414555,368386,Sticholotis quadriguttata,Sticholotis quadriguttata,species,10,0
+1414557,368386,Sticholotis carinica,Sticholotis carinica,species,10,0
+1414558,368386,Sticholotis bipunctata,Sticholotis bipunctata,species,10,0
+1414556,368386,Sticholotis discoidea,Sticholotis discoidea,species,10,0
+1415740,333796,Argosadalia,Argosadalia,genus,20,0
+1415741,1415740,Argosadalia priscilla,Argosadalia priscilla,species,10,0
+1415762,154560,Epilachna cruciata,Epilachna cruciata,species,10,0
+906304,68761,Chilocorus micrus,Chilocorus micrus,species,10,0
+1099249,133139,Hyperaspis maindroni,Hyperaspis maindroni,species,10,0
+1234372,154560,Epilachna aculata,Epilachna aculata,species,10,0
+1422860,368386,Sticholotis cribellata,Sticholotis cribellata,species,10,0
+1423793,641236,Novius amabilis,Novius amabilis,species,10,0
+1423794,641236,Novius sexnotatus,Novius sexnotatus,species,10,0
+1423797,133139,Hyperaspis chocoi,Hyperaspis chocoi,species,10,0
+488147,1424071,Hyperaspis major,Hyperaspis major,species,10,0
+918618,243969,Exochomus pubescens,Exochomus pubescens,species,10,0
+954650,176696,Nephus includens,Nephus includens,species,10,0
+320366,133139,Hyperaspis chapini,Hyperaspis chapini,species,10,0
+48460,0,Life,Life,stateofmatter,100,133773275
+1,0,Animalia,Animals,kingdom,70,67929822
+47120,48460,Arthropoda,Arthropods,phylum,60,37491177
+372739,1,Hexapoda,Hexapods,subphylum,57,32708489
+47158,47120,Insecta,Insects,class,50,32644987
+184884,372739,Pterygota,Winged and Once-winged Insects,subclass,47,32493907
+47208,47158,Coleoptera,Beetles,order,40,4289761
+71130,184884,Polyphaga,"Water, Rove, Scarab, Long-horned, Leaf, and Snout Beetles",suborder,37,3824071
+372852,47208,Cucujiformia,Cucujiform Beetles,infraorder,35,2425144
+471714,71130,Coccinelloidea,"Lady, Fungus, Scavenger, and Bark Beetles",superfamily,33,627636
